@@ -1,4 +1,5 @@
 import xml.etree.cElementTree as ET
+from PIL import Image
 
 class GenerateXml(object):
     def __init__(self, box_array, im_width, im_height, inferred_class, file_name):
@@ -10,7 +11,7 @@ class GenerateXml(object):
 
     def generate_basic_structure(self):
         annotation = ET.Element('annotation')
-        ET.SubElement(annotation, 'filename').text = self.file_name + '.jpg'
+        ET.SubElement(annotation, 'filename').text = "../images/" + self.file_name + '.jpg'
         size = ET.SubElement(annotation, 'size')
         ET.SubElement(size, 'width').text = str(self.im_width)
         ET.SubElement(size, 'height').text = str(self.im_height)
@@ -38,15 +39,15 @@ def createBox(x, y, height, width):
     return {'xmin': x, 'xmax': x + width, 'ymin': y, 'ymax': y + height}
 
 def createXML(fileName, count):
-    width, height = Image.open(fileName)
+    width, height = Image.open("../images/" + fileName + ".jpg")
     print(width, height)
 
     xml = GenerateXml([createBox(449, 330, 122, 149)], width, height, ["face"], fileName)
     xml.generate_basic_structure()
 
 def main():
-    createXML("../images/0--Parade/0_Parade_marchingband_1_849.jpg", 1)
+    createXML("0--Parade/0_Parade_marchingband_1_849", 1)
 
 
-if __main__ == "__main__":
+if __name__ == "__main__":
     main()
