@@ -1,9 +1,8 @@
 ﻿# Security Camera 
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
-|:Siddharth Maddikayala:|:American High School:|:--:|:Incoming Freshman:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| **Engineer** | **School** | **Area of Interest** | **Grade** |  
+|:Siddharth Maddikayala:|:American High School:|:Idk:|:Incoming Freshman:|
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
@@ -19,6 +18,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was pre-processing my dataset and getting it ready for training. The dataset I used 
+My first milestone was pre-processing my dataset and getting it ready for training. The dataset I used came with a text file that showed where to place the bounding boxes. I used a class called GenerateXml that I found online. I went through my annotation text file and created an instance of the class for each 
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
