@@ -45,4 +45,5 @@ def main():
     createXML("../images/0--Parade/0_Parade_marchingband_1_849.jpg", 1)
 
 
-main()
+if __main__ == "__main__":
+    main()
