@@ -41,6 +41,8 @@ def createXML(fileName, count):
     width, height = Image.open(fileName)
     print(width, height)
 
+    xml = GenerateXml([createBox(449, 330, 122, 149)], width, height, ["face"], fileName)
+
 def main():
     createXML("../images/0--Parade/0_Parade_marchingband_1_849.jpg", 1)
 
