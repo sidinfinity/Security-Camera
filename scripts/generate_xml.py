@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+import xml.etree.cElementTree as ET
+from PIL import Image
+
 import re
 import sys
 
@@ -20,7 +23,7 @@ class GenerateXml:
 
     def generate_basic_structure(self):
         annotation = ET.Element('annotation')
-        ET.SubElement(annotation, 'filename').text = self.file_name + '.jpg'
+        ET.SubElement(annotation, 'filename').text = "../images/" + self.file_name + '.jpg'
         size = ET.SubElement(annotation, 'size')
         ET.SubElement(size, 'width').text = str(self.im_width)
         ET.SubElement(size, 'height').text = str(self.im_height)
@@ -83,7 +86,6 @@ def main():
             break;
 
     aFile.close()
-
 
 if __name__ == "__main__":
     main()
