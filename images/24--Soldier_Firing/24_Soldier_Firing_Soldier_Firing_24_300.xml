@@ -1,0 +1,32 @@
+<annotation>
+  <filename>24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_300.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1337</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>491</xmin>
+      <ymin>120</ymin>
+      <xmax>606</xmax>
+      <ymax>201</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>549</xmin>
+      <ymin>201</ymin>
+      <xmax>640</xmax>
+      <ymax>285</ymax>
+    </bndbox>
+  </object>
+</annotation>

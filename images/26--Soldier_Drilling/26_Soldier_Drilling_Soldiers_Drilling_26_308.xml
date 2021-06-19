@@ -1,0 +1,20 @@
+<annotation>
+  <filename>26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_308.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1154</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>457</xmin>
+      <ymin>362</ymin>
+      <xmax>540</xmax>
+      <ymax>436</ymax>
+    </bndbox>
+  </object>
+</annotation>

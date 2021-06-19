@@ -1,0 +1,32 @@
+<annotation>
+  <filename>17--Ceremony/17_Ceremony_Ceremony_17_552.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>572</xmin>
+      <ymin>250</ymin>
+      <xmax>666</xmax>
+      <ymax>320</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>706</xmin>
+      <ymin>196</ymin>
+      <xmax>802</xmax>
+      <ymax>258</ymax>
+    </bndbox>
+  </object>
+</annotation>

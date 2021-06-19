@@ -1,0 +1,20 @@
+<annotation>
+  <filename>34--Baseball/34_Baseball_Baseball_34_59.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1433</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>630</xmin>
+      <ymin>442</ymin>
+      <xmax>770</xmax>
+      <ymax>537</ymax>
+    </bndbox>
+  </object>
+</annotation>

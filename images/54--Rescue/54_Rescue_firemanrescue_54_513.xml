@@ -1,0 +1,32 @@
+<annotation>
+  <filename>54--Rescue/54_Rescue_firemanrescue_54_513.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1041</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>624</xmin>
+      <ymin>136</ymin>
+      <xmax>864</xmax>
+      <ymax>345</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>284</xmin>
+      <ymin>638</ymin>
+      <xmax>394</xmax>
+      <ymax>762</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,20 @@
+<annotation>
+  <filename>47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_468.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>617</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>350</xmin>
+      <ymin>34</ymin>
+      <xmax>424</xmax>
+      <ymax>88</ymax>
+    </bndbox>
+  </object>
+</annotation>

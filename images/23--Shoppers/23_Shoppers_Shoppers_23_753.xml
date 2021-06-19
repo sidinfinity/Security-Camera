@@ -1,0 +1,20 @@
+<annotation>
+  <filename>23--Shoppers/23_Shoppers_Shoppers_23_753.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>786</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>256</xmin>
+      <ymin>162</ymin>
+      <xmax>528</xmax>
+      <ymax>374</ymax>
+    </bndbox>
+  </object>
+</annotation>

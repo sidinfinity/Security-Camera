@@ -1,0 +1,20 @@
+<annotation>
+  <filename>50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_1042.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1304</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>318</xmin>
+      <ymin>237</ymin>
+      <xmax>820</xmax>
+      <ymax>596</ymax>
+    </bndbox>
+  </object>
+</annotation>

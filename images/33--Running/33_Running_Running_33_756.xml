@@ -1,0 +1,32 @@
+<annotation>
+  <filename>33--Running/33_Running_Running_33_756.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>436</xmin>
+      <ymin>128</ymin>
+      <xmax>706</xmax>
+      <ymax>314</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>832</xmin>
+      <ymin>450</ymin>
+      <xmax>1024</xmax>
+      <ymax>540</ymax>
+    </bndbox>
+  </object>
+</annotation>

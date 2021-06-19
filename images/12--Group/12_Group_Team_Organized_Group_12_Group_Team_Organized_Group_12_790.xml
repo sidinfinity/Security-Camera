@@ -1,0 +1,32 @@
+<annotation>
+  <filename>12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_790.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>750</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>366</xmin>
+      <ymin>182</ymin>
+      <xmax>454</xmax>
+      <ymax>246</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>208</xmin>
+      <ymin>438</ymin>
+      <xmax>304</xmax>
+      <ymax>512</ymax>
+    </bndbox>
+  </object>
+</annotation>

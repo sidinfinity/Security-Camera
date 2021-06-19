@@ -1,0 +1,20 @@
+<annotation>
+  <filename>5--Car_Accident/5_Car_Accident_Accident_5_776.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1367</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>413</xmin>
+      <ymin>224</ymin>
+      <xmax>1066</xmax>
+      <ymax>677</ymax>
+    </bndbox>
+  </object>
+</annotation>

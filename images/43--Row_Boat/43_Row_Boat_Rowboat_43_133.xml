@@ -1,0 +1,32 @@
+<annotation>
+  <filename>43--Row_Boat/43_Row_Boat_Rowboat_43_133.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>754</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>456</xmin>
+      <ymin>323</ymin>
+      <xmax>490</xmax>
+      <ymax>354</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>558</xmin>
+      <ymin>312</ymin>
+      <xmax>596</xmax>
+      <ymax>340</ymax>
+    </bndbox>
+  </object>
+</annotation>

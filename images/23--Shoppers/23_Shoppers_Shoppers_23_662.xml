@@ -1,0 +1,32 @@
+<annotation>
+  <filename>23--Shoppers/23_Shoppers_Shoppers_23_662.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>612</xmin>
+      <ymin>142</ymin>
+      <xmax>744</xmax>
+      <ymax>240</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>514</xmin>
+      <ymin>186</ymin>
+      <xmax>638</xmax>
+      <ymax>282</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+  <filename>3--Riot/3_Riot_Riot_3_456.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>854</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>597</xmin>
+      <ymin>515</ymin>
+      <xmax>633</xmax>
+      <ymax>564</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>612</xmin>
+      <ymin>543</ymin>
+      <xmax>633</xmax>
+      <ymax>581</ymax>
+    </bndbox>
+  </object>
+</annotation>

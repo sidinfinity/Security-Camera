@@ -1,0 +1,32 @@
+<annotation>
+  <filename>58--Hockey/58_Hockey_icehockey_puck_58_756.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>342</xmin>
+      <ymin>234</ymin>
+      <xmax>628</xmax>
+      <ymax>426</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>564</xmin>
+      <ymin>224</ymin>
+      <xmax>870</xmax>
+      <ymax>406</ymax>
+    </bndbox>
+  </object>
+</annotation>

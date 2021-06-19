@@ -1,0 +1,20 @@
+<annotation>
+  <filename>41--Swimming/41_Swimming_Swimmer_41_661.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1303</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>305</xmin>
+      <ymin>282</ymin>
+      <xmax>1062</xmax>
+      <ymax>841</ymax>
+    </bndbox>
+  </object>
+</annotation>

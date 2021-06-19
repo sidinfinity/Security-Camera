@@ -1,0 +1,20 @@
+<annotation>
+  <filename>46--Jockey/46_Jockey_Jockey_46_77.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1359</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>493</xmin>
+      <ymin>151</ymin>
+      <xmax>806</xmax>
+      <ymax>376</ymax>
+    </bndbox>
+  </object>
+</annotation>

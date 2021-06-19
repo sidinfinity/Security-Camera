@@ -1,0 +1,32 @@
+<annotation>
+  <filename>59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_57.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>713</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>668</xmin>
+      <ymin>224</ymin>
+      <xmax>920</xmax>
+      <ymax>402</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>328</xmin>
+      <ymin>208</ymin>
+      <xmax>554</xmax>
+      <ymax>392</ymax>
+    </bndbox>
+  </object>
+</annotation>

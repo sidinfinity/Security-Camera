@@ -1,0 +1,32 @@
+<annotation>
+  <filename>0--Parade/0_Parade_marchingband_1_358.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1537</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>261</xmin>
+      <ymin>577</ymin>
+      <xmax>549</xmax>
+      <ymax>904</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>27</xmin>
+      <ymin>480</ymin>
+      <xmax>351</xmax>
+      <ymax>789</ymax>
+    </bndbox>
+  </object>
+</annotation>

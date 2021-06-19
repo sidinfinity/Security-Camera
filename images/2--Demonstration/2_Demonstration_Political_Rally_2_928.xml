@@ -1,0 +1,32 @@
+<annotation>
+  <filename>2--Demonstration/2_Demonstration_Political_Rally_2_928.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>2040</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>379</xmin>
+      <ymin>1458</ymin>
+      <xmax>634</xmax>
+      <ymax>1653</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>36</xmin>
+      <ymin>1287</ymin>
+      <xmax>195</xmax>
+      <ymax>1422</ymax>
+    </bndbox>
+  </object>
+</annotation>

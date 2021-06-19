@@ -1,0 +1,32 @@
+<annotation>
+  <filename>18--Concerts/18_Concerts_Concerts_18_220.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1048</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>782</xmin>
+      <ymin>498</ymin>
+      <xmax>864</xmax>
+      <ymax>549</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>186</xmin>
+      <ymin>457</ymin>
+      <xmax>258</xmax>
+      <ymax>510</ymax>
+    </bndbox>
+  </object>
+</annotation>

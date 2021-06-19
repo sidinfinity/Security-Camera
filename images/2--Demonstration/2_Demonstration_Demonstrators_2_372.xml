@@ -1,0 +1,32 @@
+<annotation>
+  <filename>2--Demonstration/2_Demonstration_Demonstrators_2_372.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1394</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>305</xmin>
+      <ymin>637</ymin>
+      <xmax>447</xmax>
+      <ymax>792</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>806</xmin>
+      <ymin>705</ymin>
+      <xmax>972</xmax>
+      <ymax>830</ymax>
+    </bndbox>
+  </object>
+</annotation>

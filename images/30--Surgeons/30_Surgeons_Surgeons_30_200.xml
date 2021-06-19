@@ -1,0 +1,32 @@
+<annotation>
+  <filename>30--Surgeons/30_Surgeons_Surgeons_30_200.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>118</xmin>
+      <ymin>136</ymin>
+      <xmax>278</xmax>
+      <ymax>282</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>542</xmin>
+      <ymin>114</ymin>
+      <xmax>662</xmax>
+      <ymax>240</ymax>
+    </bndbox>
+  </object>
+</annotation>

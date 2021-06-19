@@ -1,0 +1,32 @@
+<annotation>
+  <filename>1--Handshaking/1_Handshaking_Handshaking_1_130.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>754</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>191</xmin>
+      <ymin>271</ymin>
+      <xmax>249</xmax>
+      <ymax>300</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>368</xmin>
+      <ymin>106</ymin>
+      <xmax>424</xmax>
+      <ymax>156</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+  <filename>54--Rescue/54_Rescue_rescuepeople_54_582.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>139</xmin>
+      <ymin>435</ymin>
+      <xmax>152</xmax>
+      <ymax>444</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>647</xmin>
+      <ymin>455</ymin>
+      <xmax>667</xmax>
+      <ymax>474</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+  <filename>57--Angler/57_Angler_peoplefishing_57_10.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>576</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>692</xmin>
+      <ymin>253</ymin>
+      <xmax>709</xmax>
+      <ymax>266</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>441</xmin>
+      <ymin>255</ymin>
+      <xmax>458</xmax>
+      <ymax>270</ymax>
+    </bndbox>
+  </object>
+</annotation>

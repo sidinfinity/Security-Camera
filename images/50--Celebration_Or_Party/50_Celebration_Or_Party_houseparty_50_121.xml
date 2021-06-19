@@ -1,0 +1,32 @@
+<annotation>
+  <filename>50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_121.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>732</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>526</xmin>
+      <ymin>244</ymin>
+      <xmax>800</xmax>
+      <ymax>426</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>688</xmin>
+      <ymin>138</ymin>
+      <xmax>1014</xmax>
+      <ymax>368</ymax>
+    </bndbox>
+  </object>
+</annotation>

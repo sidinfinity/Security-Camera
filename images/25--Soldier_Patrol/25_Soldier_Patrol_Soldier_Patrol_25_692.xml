@@ -1,0 +1,20 @@
+<annotation>
+  <filename>25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_692.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>657</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>239</xmin>
+      <ymin>371</ymin>
+      <xmax>276</xmax>
+      <ymax>398</ymax>
+    </bndbox>
+  </object>
+</annotation>

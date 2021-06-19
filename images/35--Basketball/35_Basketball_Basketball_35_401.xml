@@ -1,0 +1,32 @@
+<annotation>
+  <filename>35--Basketball/35_Basketball_Basketball_35_401.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>769</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>344</xmin>
+      <ymin>402</ymin>
+      <xmax>456</xmax>
+      <ymax>506</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>616</xmin>
+      <ymin>478</ymin>
+      <xmax>720</xmax>
+      <ymax>650</ymax>
+    </bndbox>
+  </object>
+</annotation>

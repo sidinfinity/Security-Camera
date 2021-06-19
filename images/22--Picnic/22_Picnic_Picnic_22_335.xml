@@ -1,0 +1,32 @@
+<annotation>
+  <filename>22--Picnic/22_Picnic_Picnic_22_335.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>577</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>514</xmin>
+      <ymin>214</ymin>
+      <xmax>552</xmax>
+      <ymax>242</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>696</xmin>
+      <ymin>219</ymin>
+      <xmax>740</xmax>
+      <ymax>258</ymax>
+    </bndbox>
+  </object>
+</annotation>

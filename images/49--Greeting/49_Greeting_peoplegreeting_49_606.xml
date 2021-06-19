@@ -1,0 +1,32 @@
+<annotation>
+  <filename>49--Greeting/49_Greeting_peoplegreeting_49_606.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>714</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>506</xmin>
+      <ymin>120</ymin>
+      <xmax>594</xmax>
+      <ymax>182</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>804</xmin>
+      <ymin>90</ymin>
+      <xmax>926</xmax>
+      <ymax>142</ymax>
+    </bndbox>
+  </object>
+</annotation>

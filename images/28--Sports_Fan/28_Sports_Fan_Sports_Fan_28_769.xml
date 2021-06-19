@@ -1,0 +1,32 @@
+<annotation>
+  <filename>28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_769.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>615</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>186</xmin>
+      <ymin>114</ymin>
+      <xmax>304</xmax>
+      <ymax>198</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>558</xmin>
+      <ymin>156</ymin>
+      <xmax>652</xmax>
+      <ymax>220</ymax>
+    </bndbox>
+  </object>
+</annotation>

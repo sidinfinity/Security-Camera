@@ -1,0 +1,32 @@
+<annotation>
+  <filename>44--Aerobics/44_Aerobics_Aerobics_44_427.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1010</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>640</xmin>
+      <ymin>281</ymin>
+      <xmax>718</xmax>
+      <ymax>324</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>178</xmin>
+      <ymin>341</ymin>
+      <xmax>248</xmax>
+      <ymax>393</ymax>
+    </bndbox>
+  </object>
+</annotation>

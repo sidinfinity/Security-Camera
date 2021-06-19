@@ -1,0 +1,32 @@
+<annotation>
+  <filename>13--Interview/13_Interview_Interview_On_Location_13_982.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>686</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>152</xmin>
+      <ymin>202</ymin>
+      <xmax>304</xmax>
+      <ymax>312</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>680</xmin>
+      <ymin>144</ymin>
+      <xmax>854</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+</annotation>

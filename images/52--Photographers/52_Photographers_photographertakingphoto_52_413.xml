@@ -1,0 +1,32 @@
+<annotation>
+  <filename>52--Photographers/52_Photographers_photographertakingphoto_52_413.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>704</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>122</xmin>
+      <ymin>126</ymin>
+      <xmax>187</xmax>
+      <ymax>178</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>765</xmin>
+      <ymin>121</ymin>
+      <xmax>832</xmax>
+      <ymax>174</ymax>
+    </bndbox>
+  </object>
+</annotation>

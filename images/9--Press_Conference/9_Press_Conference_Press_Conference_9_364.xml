@@ -1,0 +1,32 @@
+<annotation>
+  <filename>9--Press_Conference/9_Press_Conference_Press_Conference_9_364.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>685</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>256</xmin>
+      <ymin>214</ymin>
+      <xmax>474</xmax>
+      <ymax>374</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>726</xmin>
+      <ymin>104</ymin>
+      <xmax>812</xmax>
+      <ymax>204</ymax>
+    </bndbox>
+  </object>
+</annotation>

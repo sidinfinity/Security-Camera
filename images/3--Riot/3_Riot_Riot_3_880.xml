@@ -1,0 +1,20 @@
+<annotation>
+  <filename>3--Riot/3_Riot_Riot_3_880.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1657</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>126</xmin>
+      <ymin>16</ymin>
+      <xmax>846</xmax>
+      <ymax>681</ymax>
+    </bndbox>
+  </object>
+</annotation>

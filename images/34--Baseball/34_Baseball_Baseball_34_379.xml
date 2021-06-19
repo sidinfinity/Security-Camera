@@ -1,0 +1,32 @@
+<annotation>
+  <filename>34--Baseball/34_Baseball_Baseball_34_379.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>665</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>369</xmin>
+      <ymin>91</ymin>
+      <xmax>426</xmax>
+      <ymax>144</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>547</xmin>
+      <ymin>59</ymin>
+      <xmax>601</xmax>
+      <ymax>99</ymax>
+    </bndbox>
+  </object>
+</annotation>

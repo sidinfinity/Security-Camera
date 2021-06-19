@@ -1,0 +1,32 @@
+<annotation>
+  <filename>12--Group/12_Group_Group_12_Group_Group_12_395.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>684</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>280</xmin>
+      <ymin>102</ymin>
+      <xmax>406</xmax>
+      <ymax>206</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>690</xmin>
+      <ymin>82</ymin>
+      <xmax>818</xmax>
+      <ymax>164</ymax>
+    </bndbox>
+  </object>
+</annotation>

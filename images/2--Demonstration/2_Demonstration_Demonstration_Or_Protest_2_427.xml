@@ -1,0 +1,32 @@
+<annotation>
+  <filename>2--Demonstration/2_Demonstration_Demonstration_Or_Protest_2_427.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1392</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>367</xmin>
+      <ymin>516</ymin>
+      <xmax>552</xmax>
+      <ymax>674</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>76</xmin>
+      <ymin>1062</ymin>
+      <xmax>234</xmax>
+      <ymax>1195</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+  <filename>51--Dresses/51_Dresses_wearingdress_51_421.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1549</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>441</xmin>
+      <ymin>160</ymin>
+      <xmax>604</xmax>
+      <ymax>284</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>955</xmin>
+      <ymin>148</ymin>
+      <xmax>1182</xmax>
+      <ymax>217</ymax>
+    </bndbox>
+  </object>
+</annotation>

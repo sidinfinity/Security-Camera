@@ -1,0 +1,32 @@
+<annotation>
+  <filename>4--Dancing/4_Dancing_Dancing_4_42.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>686</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>542</xmin>
+      <ymin>162</ymin>
+      <xmax>636</xmax>
+      <ymax>232</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>888</xmin>
+      <ymin>306</ymin>
+      <xmax>972</xmax>
+      <ymax>360</ymax>
+    </bndbox>
+  </object>
+</annotation>

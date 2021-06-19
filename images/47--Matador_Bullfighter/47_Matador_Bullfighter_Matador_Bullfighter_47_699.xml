@@ -1,0 +1,32 @@
+<annotation>
+  <filename>47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_699.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>700</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>646</xmin>
+      <ymin>70</ymin>
+      <xmax>870</xmax>
+      <ymax>240</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>62</xmin>
+      <ymin>292</ymin>
+      <xmax>178</xmax>
+      <ymax>390</ymax>
+    </bndbox>
+  </object>
+</annotation>

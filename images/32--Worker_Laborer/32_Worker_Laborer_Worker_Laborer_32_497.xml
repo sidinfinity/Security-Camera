@@ -1,0 +1,20 @@
+<annotation>
+  <filename>32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_497.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>812</xmin>
+      <ymin>268</ymin>
+      <xmax>980</xmax>
+      <ymax>392</ymax>
+    </bndbox>
+  </object>
+</annotation>

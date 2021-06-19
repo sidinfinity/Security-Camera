@@ -1,0 +1,32 @@
+<annotation>
+  <filename>53--Raid/53_Raid_policeraid_53_205.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>150</xmin>
+      <ymin>166</ymin>
+      <xmax>162</xmax>
+      <ymax>176</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>351</xmin>
+      <ymin>77</ymin>
+      <xmax>369</xmax>
+      <ymax>90</ymax>
+    </bndbox>
+  </object>
+</annotation>

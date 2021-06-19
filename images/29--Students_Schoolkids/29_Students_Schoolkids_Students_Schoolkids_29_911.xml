@@ -1,0 +1,20 @@
+<annotation>
+  <filename>29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_911.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>378</xmin>
+      <ymin>134</ymin>
+      <xmax>468</xmax>
+      <ymax>190</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,20 @@
+<annotation>
+  <filename>21--Festival/21_Festival_Festival_21_442.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1405</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>412</xmin>
+      <ymin>771</ymin>
+      <xmax>733</xmax>
+      <ymax>1010</ymax>
+    </bndbox>
+  </object>
+</annotation>

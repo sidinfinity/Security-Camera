@@ -1,0 +1,32 @@
+<annotation>
+  <filename>40--Gymnastics/40_Gymnastics_Gymnastics_40_886.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>170</xmin>
+      <ymin>116</ymin>
+      <xmax>272</xmax>
+      <ymax>206</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>178</xmin>
+      <ymin>512</ymin>
+      <xmax>258</xmax>
+      <ymax>620</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+  <filename>38--Tennis/38_Tennis_Tennis_38_952.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1416</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>338</xmin>
+      <ymin>136</ymin>
+      <xmax>504</xmax>
+      <ymax>297</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>935</xmin>
+      <ymin>839</ymin>
+      <xmax>1046</xmax>
+      <ymax>928</ymax>
+    </bndbox>
+  </object>
+</annotation>

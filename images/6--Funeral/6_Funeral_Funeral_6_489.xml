@@ -1,0 +1,32 @@
+<annotation>
+  <filename>6--Funeral/6_Funeral_Funeral_6_489.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>608</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>129</xmin>
+      <ymin>93</ymin>
+      <xmax>250</xmax>
+      <ymax>184</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>851</xmin>
+      <ymin>100</ymin>
+      <xmax>891</xmax>
+      <ymax>137</ymax>
+    </bndbox>
+  </object>
+</annotation>

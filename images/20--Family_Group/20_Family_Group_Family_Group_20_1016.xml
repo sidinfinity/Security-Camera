@@ -1,0 +1,20 @@
+<annotation>
+  <filename>20--Family_Group/20_Family_Group_Family_Group_20_1016.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1365</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>304</xmin>
+      <ymin>112</ymin>
+      <xmax>765</xmax>
+      <ymax>427</ymax>
+    </bndbox>
+  </object>
+</annotation>

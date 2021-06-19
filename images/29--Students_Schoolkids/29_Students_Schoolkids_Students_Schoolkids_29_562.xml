@@ -1,0 +1,32 @@
+<annotation>
+  <filename>29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_562.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1054</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>239</xmin>
+      <ymin>253</ymin>
+      <xmax>549</xmax>
+      <ymax>510</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>496</xmin>
+      <ymin>370</ymin>
+      <xmax>815</xmax>
+      <ymax>592</ymax>
+    </bndbox>
+  </object>
+</annotation>

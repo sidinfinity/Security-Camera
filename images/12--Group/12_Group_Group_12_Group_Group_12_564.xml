@@ -1,0 +1,20 @@
+<annotation>
+  <filename>12--Group/12_Group_Group_12_Group_Group_12_564.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>576</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>446</xmin>
+      <ymin>88</ymin>
+      <xmax>586</xmax>
+      <ymax>208</ymax>
+    </bndbox>
+  </object>
+</annotation>

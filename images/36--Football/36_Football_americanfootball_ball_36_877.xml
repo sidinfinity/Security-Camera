@@ -1,0 +1,32 @@
+<annotation>
+  <filename>36--Football/36_Football_americanfootball_ball_36_877.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>684</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>287</xmin>
+      <ymin>78</ymin>
+      <xmax>402</xmax>
+      <ymax>174</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>387</xmin>
+      <ymin>31</ymin>
+      <xmax>463</xmax>
+      <ymax>75</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,20 @@
+<annotation>
+  <filename>55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_605.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>838</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>476</xmin>
+      <ymin>179</ymin>
+      <xmax>529</xmax>
+      <ymax>221</ymax>
+    </bndbox>
+  </object>
+</annotation>

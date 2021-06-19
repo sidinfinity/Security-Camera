@@ -1,0 +1,20 @@
+<annotation>
+  <filename>61--Street_Battle/61_Street_Battle_streetfight_61_556.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>682</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>398</xmin>
+      <ymin>92</ymin>
+      <xmax>508</xmax>
+      <ymax>168</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,20 @@
+<annotation>
+  <filename>8--Election_Campain/8_Election_Campain_Election_Campaign_8_508.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1316</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>439</xmin>
+      <ymin>403</ymin>
+      <xmax>821</xmax>
+      <ymax>660</ymax>
+    </bndbox>
+  </object>
+</annotation>

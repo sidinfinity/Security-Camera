@@ -1,0 +1,32 @@
+<annotation>
+  <filename>26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_147.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>338</xmin>
+      <ymin>96</ymin>
+      <xmax>468</xmax>
+      <ymax>178</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>644</xmin>
+      <ymin>124</ymin>
+      <xmax>766</xmax>
+      <ymax>206</ymax>
+    </bndbox>
+  </object>
+</annotation>

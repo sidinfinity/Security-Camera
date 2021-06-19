@@ -1,0 +1,20 @@
+<annotation>
+  <filename>35--Basketball/35_Basketball_Basketball_35_596.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>782</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>385</xmin>
+      <ymin>166</ymin>
+      <xmax>439</xmax>
+      <ymax>206</ymax>
+    </bndbox>
+  </object>
+</annotation>

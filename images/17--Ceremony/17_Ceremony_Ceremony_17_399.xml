@@ -1,0 +1,20 @@
+<annotation>
+  <filename>17--Ceremony/17_Ceremony_Ceremony_17_399.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>668</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>450</xmin>
+      <ymin>214</ymin>
+      <xmax>608</xmax>
+      <ymax>380</ymax>
+    </bndbox>
+  </object>
+</annotation>

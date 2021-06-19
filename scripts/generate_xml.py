@@ -1,7 +1,17 @@
-import xml.etree.cElementTree as ET
+#!/usr/bin/python3
 
-class GenerateXml(object):
-    def __init__(self, box_array, im_width, im_height, inferred_class, file_name):
+import re
+import sys
+
+import numpy
+
+from PIL import Image
+from lxml import etree as ET
+
+class GenerateXml:
+    def __init__(
+        self, box_array, im_width, im_height, inferred_class, file_name
+    ):
         self.inferred_class = inferred_class
         self.box_array = box_array
         self.im_width = im_width
@@ -31,22 +41,49 @@ class GenerateXml(object):
             count += 1
 
         arquivo = ET.ElementTree(annotation)
-        arquivo.write('../xml' + self.file_name + '.xml')
+        arquivo.write('../images/' + self.file_name + '.xml', pretty_print=True)
 
 
 def createBox(x, y, height, width):
     return {'xmin': x, 'xmax': x + width, 'ymin': y, 'ymax': y + height}
 
-def createXML(fileName, count):
-    width, height = Image.open(fileName)
-    print(width, height)
-
-    xml = GenerateXml([createBox(449, 330, 122, 149)], width, height, ["face"], fileName)
-    xml.generate_basic_structure()
+def get_filename(fname: str) -> str:
+    regex = re.compile(r'(.*)\.jpg')
+    match = re.match(regex, fname)
+    if match:
+        return match.group(1)
+    return None
 
 def main():
-    createXML("../images/0--Parade/0_Parade_marchingband_1_849.jpg", 1)
+    aFile = open("annotations.txt", "r")
+    while True:
+        try:
+            imageFile = get_filename(aFile.readline())
+            num = int(aFile.readline())
+            if num == 0:
+                temp = aFile.readline()
+                continue
+            boxes = []
+            inferred = []
+            for i in range(0, num):
+                rawBox = aFile.readline().split(' ')
+                boundBox = createBox(
+                    int(rawBox[0]), int(rawBox[1]), int(rawBox[2]),
+                    int(rawBox[3])
+                )
+                boxes.append(boundBox)
+                inferred.append("face")
+
+            image = Image.open("../images/" + imageFile + ".jpg")
+            width, height = image.size
+            print(len(boxes), len(inferred))
+            xml = GenerateXml(boxes, width, height, inferred, imageFile)
+            xml.generate_basic_structure()
+        except Exception:
+            break;
+
+    aFile.close()
 
 
-if __main__ == "__main__":
+if __name__ == "__main__":
     main()

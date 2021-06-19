@@ -1,0 +1,20 @@
+<annotation>
+  <filename>14--Traffic/14_Traffic_Traffic_14_363.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>542</xmin>
+      <ymin>260</ymin>
+      <xmax>569</xmax>
+      <ymax>284</ymax>
+    </bndbox>
+  </object>
+</annotation>

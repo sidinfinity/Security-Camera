@@ -1,0 +1,20 @@
+<annotation>
+  <filename>38--Tennis/38_Tennis_Tennis_38_781.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1136</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>295</xmin>
+      <ymin>242</ymin>
+      <xmax>756</xmax>
+      <ymax>530</ymax>
+    </bndbox>
+  </object>
+</annotation>

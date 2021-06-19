@@ -1,0 +1,32 @@
+<annotation>
+  <filename>17--Ceremony/17_Ceremony_Ceremony_17_890.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1529</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>490</xmin>
+      <ymin>475</ymin>
+      <xmax>660</xmax>
+      <ymax>639</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>200</xmin>
+      <ymin>379</ymin>
+      <xmax>349</xmax>
+      <ymax>478</ymax>
+    </bndbox>
+  </object>
+</annotation>

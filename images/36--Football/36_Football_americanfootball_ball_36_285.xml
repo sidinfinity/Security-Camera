@@ -1,0 +1,20 @@
+<annotation>
+  <filename>36--Football/36_Football_americanfootball_ball_36_285.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1561</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>158</xmin>
+      <ymin>143</ymin>
+      <xmax>441</xmax>
+      <ymax>353</ymax>
+    </bndbox>
+  </object>
+</annotation>

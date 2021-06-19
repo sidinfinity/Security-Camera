@@ -1,0 +1,32 @@
+<annotation>
+  <filename>46--Jockey/46_Jockey_Jockey_46_749.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>466</xmin>
+      <ymin>84</ymin>
+      <xmax>598</xmax>
+      <ymax>178</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>908</xmin>
+      <ymin>68</ymin>
+      <xmax>1038</xmax>
+      <ymax>160</ymax>
+    </bndbox>
+  </object>
+</annotation>

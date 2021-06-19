@@ -1,0 +1,20 @@
+<annotation>
+  <filename>19--Couple/19_Couple_Couple_19_717.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1167</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>248</xmin>
+      <ymin>75</ymin>
+      <xmax>860</xmax>
+      <ymax>553</ymax>
+    </bndbox>
+  </object>
+</annotation>
