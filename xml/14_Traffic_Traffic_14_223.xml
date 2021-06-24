@@ -1,0 +1,32 @@
+<annotation>
+  <filename>14_Traffic_Traffic_14_223.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>576</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>126</xmin>
+      <ymin>364</ymin>
+      <xmax>240</xmax>
+      <ymax>430</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>280</xmin>
+      <ymin>466</ymin>
+      <xmax>384</xmax>
+      <ymax>530</ymax>
+    </bndbox>
+  </object>
+</annotation>

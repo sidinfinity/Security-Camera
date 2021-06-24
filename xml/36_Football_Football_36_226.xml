@@ -1,0 +1,20 @@
+<annotation>
+  <filename>36_Football_Football_36_226.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1223</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>568</xmin>
+      <ymin>119</ymin>
+      <xmax>702</xmax>
+      <ymax>219</ymax>
+    </bndbox>
+  </object>
+</annotation>

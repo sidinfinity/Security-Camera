@@ -1,0 +1,32 @@
+<annotation>
+  <filename>37_Soccer_soccer_ball_37_741.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>793</xmin>
+      <ymin>661</ymin>
+      <xmax>842</xmax>
+      <ymax>694</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>602</xmin>
+      <ymin>585</ymin>
+      <xmax>636</xmax>
+      <ymax>617</ymax>
+    </bndbox>
+  </object>
+</annotation>

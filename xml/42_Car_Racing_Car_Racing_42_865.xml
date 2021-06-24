@@ -1,0 +1,20 @@
+<annotation>
+  <filename>42_Car_Racing_Car_Racing_42_865.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>684</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>217</xmin>
+      <ymin>307</ymin>
+      <xmax>251</xmax>
+      <ymax>332</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+  <filename>32_Worker_Laborer_Worker_Laborer_32_802.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>685</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>490</xmin>
+      <ymin>240</ymin>
+      <xmax>550</xmax>
+      <ymax>285</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>324</xmin>
+      <ymin>207</ymin>
+      <xmax>410</xmax>
+      <ymax>272</ymax>
+    </bndbox>
+  </object>
+</annotation>

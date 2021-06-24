@@ -1,0 +1,32 @@
+<annotation>
+  <filename>36_Football_Football_36_173.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>677</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>646</xmin>
+      <ymin>64</ymin>
+      <xmax>736</xmax>
+      <ymax>130</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>200</xmin>
+      <ymin>44</ymin>
+      <xmax>282</xmax>
+      <ymax>116</ymax>
+    </bndbox>
+  </object>
+</annotation>

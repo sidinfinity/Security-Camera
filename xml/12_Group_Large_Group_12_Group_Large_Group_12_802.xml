@@ -1,0 +1,32 @@
+<annotation>
+  <filename>12_Group_Large_Group_12_Group_Large_Group_12_802.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1592</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>240</xmin>
+      <ymin>171</ymin>
+      <xmax>396</xmax>
+      <ymax>292</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>772</xmin>
+      <ymin>246</ymin>
+      <xmax>931</xmax>
+      <ymax>342</ymax>
+    </bndbox>
+  </object>
+</annotation>

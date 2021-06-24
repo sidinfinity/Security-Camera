@@ -1,0 +1,32 @@
+<annotation>
+  <filename>15_Stock_Market_Stock_Market_15_757.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>141</xmin>
+      <ymin>108</ymin>
+      <xmax>189</xmax>
+      <ymax>151</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>786</xmin>
+      <ymin>124</ymin>
+      <xmax>853</xmax>
+      <ymax>160</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+  <filename>13_Interview_Interview_Sequences_13_583.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>417</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>506</xmin>
+      <ymin>30</ymin>
+      <xmax>588</xmax>
+      <ymax>88</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>738</xmin>
+      <ymin>98</ymin>
+      <xmax>816</xmax>
+      <ymax>154</ymax>
+    </bndbox>
+  </object>
+</annotation>

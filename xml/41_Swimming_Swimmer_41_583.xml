@@ -1,0 +1,32 @@
+<annotation>
+  <filename>41_Swimming_Swimmer_41_583.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>682</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>186</xmin>
+      <ymin>134</ymin>
+      <xmax>334</xmax>
+      <ymax>240</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>408</xmin>
+      <ymin>80</ymin>
+      <xmax>542</xmax>
+      <ymax>190</ymax>
+    </bndbox>
+  </object>
+</annotation>

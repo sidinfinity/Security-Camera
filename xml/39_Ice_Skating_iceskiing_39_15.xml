@@ -1,0 +1,32 @@
+<annotation>
+  <filename>39_Ice_Skating_iceskiing_39_15.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>384</xmin>
+      <ymin>273</ymin>
+      <xmax>422</xmax>
+      <ymax>306</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>316</xmin>
+      <ymin>266</ymin>
+      <xmax>330</xmax>
+      <ymax>277</ymax>
+    </bndbox>
+  </object>
+</annotation>

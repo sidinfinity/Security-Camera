@@ -1,0 +1,20 @@
+<annotation>
+  <filename>54_Rescue_firemanrescue_54_176.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>959</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>510</xmin>
+      <ymin>78</ymin>
+      <xmax>972</xmax>
+      <ymax>468</ymax>
+    </bndbox>
+  </object>
+</annotation>

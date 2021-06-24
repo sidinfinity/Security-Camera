@@ -12,8 +12,8 @@ from lxml import etree as ET
 
 class GenerateXml:
 
-    def __init__(self, img_dir):
-        self.img_dir = img_dir
+    def __init__(self, xml_dir):
+        self.xml_dir = xml_dir
 
     def generate_basic_structure(
         self, file_name, box_array, im_width, im_height, inferred_class
@@ -35,12 +35,12 @@ class GenerateXml:
             bndBox = ET.SubElement(objectBox, "bndbox")
             ET.SubElement(bndBox, "xmin").text = str(box["xmin"])
             ET.SubElement(bndBox, "ymin").text = str(box["ymin"])
-            ET.SubElement(bndBox, "xmax").text = str(box["xmax"])
-            ET.SubElement(bndBox, "ymax").text = str(box["ymax"])
+            ET.SubElement(bndBox, "xmax").text = str(min(im_width, box["xmax"]))
+            ET.SubElement(bndBox, "ymax").text = str(min(im_height, box["ymax"]))
             count += 1
 
         arquivo = ET.ElementTree(annotation)
-        img_file = os.path.join(self.img_dir, file_name+".xml")
+        img_file = os.path.join(self.xml_dir, file_name+".xml")
         arquivo.write(img_file, pretty_print=True)
 
 
@@ -49,21 +49,27 @@ def createBox(x, y, height, width):
 
 
 def get_filename(fname: str) -> str:
-    regex = re.compile(r"(.*)\.jpg")
+    regex = re.compile(r"(.*)/(.*)\.jpg")
     match = re.match(regex, fname)
     if match:
-        return match.group(1)
+        return match.group(2)
+
     return None
 
 
-def read_and_generate_xml_files(src, img_dir):
+def read_and_generate_xml_files(src, img_dir, xml_dir):
     aFile = open(src, "r")
-    xml = GenerateXml(img_dir)
+    xml = GenerateXml(xml_dir)
 
     while True:
         try:
             imageFile = get_filename(aFile.readline())
-            num = int(aFile.readline())
+            num = aFile.readline()
+            # end of file check
+            if num == '':
+                break
+
+            num = int(num)
             if num == 0:
                 temp = aFile.readline()
                 continue
@@ -100,5 +106,6 @@ if __name__ == "__main__":
     dir_path = os.path.dirname(os.path.realpath(__file__))
     img_dir = os.path.join(dir_path, "..", "images")
     src_file = os.path.join(dir_path, "annotations.txt")
+    xml_dir = os.path.join(dir_path, "..", "xml")
 
-    read_and_generate_xml_files(src_file, img_dir)
+    read_and_generate_xml_files(src_file, img_dir, xml_dir)

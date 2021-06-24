@@ -1,0 +1,20 @@
+<annotation>
+  <filename>16_Award_Ceremony_Awards_Ceremony_16_251.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1449</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>382</xmin>
+      <ymin>218</ymin>
+      <xmax>758</xmax>
+      <ymax>481</ymax>
+    </bndbox>
+  </object>
+</annotation>

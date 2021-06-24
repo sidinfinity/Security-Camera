@@ -1,0 +1,20 @@
+<annotation>
+  <filename>33_Running_Running_33_300.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1567</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>443</xmin>
+      <ymin>110</ymin>
+      <xmax>584</xmax>
+      <ymax>202</ymax>
+    </bndbox>
+  </object>
+</annotation>

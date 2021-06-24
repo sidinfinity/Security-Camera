@@ -1,0 +1,32 @@
+<annotation>
+  <filename>30_Surgeons_Surgeons_30_574.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>382</xmin>
+      <ymin>66</ymin>
+      <xmax>534</xmax>
+      <ymax>178</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>698</xmin>
+      <ymin>142</ymin>
+      <xmax>934</xmax>
+      <ymax>324</ymax>
+    </bndbox>
+  </object>
+</annotation>

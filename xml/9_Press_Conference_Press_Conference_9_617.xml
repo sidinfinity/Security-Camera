@@ -1,0 +1,20 @@
+<annotation>
+  <filename>9_Press_Conference_Press_Conference_9_617.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>387</xmin>
+      <ymin>141</ymin>
+      <xmax>648</xmax>
+      <ymax>324</ymax>
+    </bndbox>
+  </object>
+</annotation>

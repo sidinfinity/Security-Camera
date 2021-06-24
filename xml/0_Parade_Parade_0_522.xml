@@ -1,0 +1,32 @@
+<annotation>
+  <filename>0_Parade_Parade_0_522.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1539</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>363</xmin>
+      <ymin>117</ymin>
+      <xmax>600</xmax>
+      <ymax>291</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>637</xmin>
+      <ymin>276</ymin>
+      <xmax>793</xmax>
+      <ymax>384</ymax>
+    </bndbox>
+  </object>
+</annotation>

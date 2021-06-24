@@ -1,0 +1,32 @@
+<annotation>
+  <filename>43_Row_Boat_Canoe_43_218.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>258</xmin>
+      <ymin>134</ymin>
+      <xmax>310</xmax>
+      <ymax>173</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>496</xmin>
+      <ymin>219</ymin>
+      <xmax>545</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+</annotation>

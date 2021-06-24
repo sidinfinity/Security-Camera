@@ -1,0 +1,20 @@
+<annotation>
+  <filename>15_Stock_Market_Stock_Market_15_536.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>266</xmin>
+      <ymin>278</ymin>
+      <xmax>408</xmax>
+      <ymax>366</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+  <filename>42_Car_Racing_Car_Racing_42_826.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>682</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>331</xmin>
+      <ymin>195</ymin>
+      <xmax>366</xmax>
+      <ymax>221</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>920</xmin>
+      <ymin>181</ymin>
+      <xmax>958</xmax>
+      <ymax>208</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,20 @@
+<annotation>
+  <filename>6_Funeral_Funeral_6_753.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1366</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>264</xmin>
+      <ymin>323</ymin>
+      <xmax>939</xmax>
+      <ymax>838</ymax>
+    </bndbox>
+  </object>
+</annotation>

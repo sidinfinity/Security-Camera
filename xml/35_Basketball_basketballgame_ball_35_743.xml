@@ -1,0 +1,20 @@
+<annotation>
+  <filename>35_Basketball_basketballgame_ball_35_743.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1547</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>369</xmin>
+      <ymin>257</ymin>
+      <xmax>961</xmax>
+      <ymax>647</ymax>
+    </bndbox>
+  </object>
+</annotation>

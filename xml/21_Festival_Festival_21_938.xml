@@ -1,0 +1,32 @@
+<annotation>
+  <filename>21_Festival_Festival_21_938.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>226</xmin>
+      <ymin>32</ymin>
+      <xmax>336</xmax>
+      <ymax>108</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>734</xmin>
+      <ymin>70</ymin>
+      <xmax>814</xmax>
+      <ymax>136</ymax>
+    </bndbox>
+  </object>
+</annotation>

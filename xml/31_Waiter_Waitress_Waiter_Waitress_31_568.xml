@@ -1,0 +1,32 @@
+<annotation>
+  <filename>31_Waiter_Waitress_Waiter_Waitress_31_568.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>184</xmin>
+      <ymin>92</ymin>
+      <xmax>376</xmax>
+      <ymax>236</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>658</xmin>
+      <ymin>76</ymin>
+      <xmax>858</xmax>
+      <ymax>224</ymax>
+    </bndbox>
+  </object>
+</annotation>

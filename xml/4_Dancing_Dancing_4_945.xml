@@ -1,0 +1,20 @@
+<annotation>
+  <filename>4_Dancing_Dancing_4_945.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1541</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>289</xmin>
+      <ymin>307</ymin>
+      <xmax>789</xmax>
+      <ymax>753</ymax>
+    </bndbox>
+  </object>
+</annotation>

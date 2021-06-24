@@ -1,0 +1,20 @@
+<annotation>
+  <filename>56_Voter_peoplevoting_56_745.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>576</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>522</xmin>
+      <ymin>82</ymin>
+      <xmax>642</xmax>
+      <ymax>186</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+  <filename>16_Award_Ceremony_Awards_Ceremony_16_525.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>708</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>644</xmin>
+      <ymin>48</ymin>
+      <xmax>824</xmax>
+      <ymax>170</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>208</xmin>
+      <ymin>114</ymin>
+      <xmax>360</xmax>
+      <ymax>210</ymax>
+    </bndbox>
+  </object>
+</annotation>

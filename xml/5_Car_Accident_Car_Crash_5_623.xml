@@ -1,0 +1,32 @@
+<annotation>
+  <filename>5_Car_Accident_Car_Crash_5_623.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>631</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>671</xmin>
+      <ymin>250</ymin>
+      <xmax>699</xmax>
+      <ymax>272</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>563</xmin>
+      <ymin>153</ymin>
+      <xmax>575</xmax>
+      <ymax>162</ymax>
+    </bndbox>
+  </object>
+</annotation>

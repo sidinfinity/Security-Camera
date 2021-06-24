@@ -1,0 +1,32 @@
+<annotation>
+  <filename>42_Car_Racing_Nascar_42_666.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>578</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>314</xmin>
+      <ymin>68</ymin>
+      <xmax>378</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>456</xmin>
+      <ymin>32</ymin>
+      <xmax>554</xmax>
+      <ymax>104</ymax>
+    </bndbox>
+  </object>
+</annotation>

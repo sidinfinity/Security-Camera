@@ -1,0 +1,32 @@
+<annotation>
+  <filename>23_Shoppers_Shoppers_23_795.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1189</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>293</xmin>
+      <ymin>128</ymin>
+      <xmax>449</xmax>
+      <ymax>253</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>497</xmin>
+      <ymin>211</ymin>
+      <xmax>625</xmax>
+      <ymax>313</ymax>
+    </bndbox>
+  </object>
+</annotation>

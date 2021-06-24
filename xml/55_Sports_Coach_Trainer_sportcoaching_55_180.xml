@@ -1,0 +1,32 @@
+<annotation>
+  <filename>55_Sports_Coach_Trainer_sportcoaching_55_180.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>702</xmin>
+      <ymin>478</ymin>
+      <xmax>764</xmax>
+      <ymax>538</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>492</xmin>
+      <ymin>190</ymin>
+      <xmax>564</xmax>
+      <ymax>250</ymax>
+    </bndbox>
+  </object>
+</annotation>

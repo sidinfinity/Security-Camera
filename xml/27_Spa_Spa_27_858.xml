@@ -1,0 +1,32 @@
+<annotation>
+  <filename>27_Spa_Spa_27_858.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>681</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>162</xmin>
+      <ymin>250</ymin>
+      <xmax>308</xmax>
+      <ymax>414</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>594</xmin>
+      <ymin>282</ymin>
+      <xmax>782</xmax>
+      <ymax>406</ymax>
+    </bndbox>
+  </object>
+</annotation>
