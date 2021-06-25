@@ -1,11 +1,16 @@
 #!/usr/bin/python3
-import os, requests
-from tqdm import tqdm
-import xml.etree.ElementTree as ET
 
-model_id = "b1f02c19-e5ad-4716-9686-2d3f136ef9a2"
-api_key = "yrs83CpwwAvgFXrAwNrLyT0iPmXYSGe6"
-url = 'https://app.nanonets.com/api/v2/ObjectDetection/Model/' + str(model_id) + '/UploadFile/'
+import json
+import os
+import requests
+import time
+import xml.etree.ElementTree as ET
+import socket
+
+from tqdm import tqdm
+
+model_id = "a05ae8fa-b1b4-4638-b303-8de1bd92e020"
+api_key = "lAKaGYHp5e4BMxLJhB1UMfDSxklAfmp0"
 
 for xmlFile in tqdm(os.listdir("../xml/")):
     if xmlFile.endswith(".xml"):
@@ -33,19 +38,28 @@ for xmlFile in tqdm(os.listdir("../xml/")):
 
                         continue
                     objDict[str(element.tag)] = element.text
+                    bBoxes.append(objDict)
 
-                bBoxes.append(objDict)
+        url = 'https://app.nanonets.com/#/od/upload/' + str(model_id)
+        info = ("", json.dumps(([{"filename": filename, "object": bBoxes}])))
 
-        print(filename)
-        data = {"file": open("../images/" + filename, 'rb'),
-            'data': (
-                ' ',
-                '[{"filename":' + filename + ', "object":' + f"{bBoxes}" +  '}]'
-            ), 'model_id' :('', model_id)
-        }
+        try:
+            data = {"file": open("../images/" + filename, 'rb'), 'data': info, 'modelId' :('', model_id)}
+            response = requests.post(url, auth=requests.auth.HTTPBasicAuth(api_key, ''), files=data, timeout = 10)
+            if response.status_code > 250 or response.status_code<200:
+                print(response.text, response.status_code, filename)
 
-        print(data)
-        response = requests.post(url, auth=requests.auth.HTTPBasicAuth(api_key, ''), files=data)
+        except requests.Timeout:
+            print(f"Got requests.Timeout  {filename}")
+            time.sleep(10)
+            continue
 
-        print(response.text)
-        break
+        except requests.exceptions.ConnectionError:
+            print(f"Got requests.exceptions.ConnectionError  {filename}")
+            time.sleep(10)
+            continue
+
+        except requests.exceptions.ReadTimeout:
+            print(f"Got requests.exceptions.ReadTimeout  {filename}")
+            time.sleep(10)
+            continue
