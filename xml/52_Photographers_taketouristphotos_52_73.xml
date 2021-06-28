@@ -1,0 +1,32 @@
+<annotation>
+  <filename>52_Photographers_taketouristphotos_52_73.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>626</xmin>
+      <ymin>366</ymin>
+      <xmax>730</xmax>
+      <ymax>444</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>750</xmin>
+      <ymin>378</ymin>
+      <xmax>838</xmax>
+      <ymax>442</ymax>
+    </bndbox>
+  </object>
+</annotation>

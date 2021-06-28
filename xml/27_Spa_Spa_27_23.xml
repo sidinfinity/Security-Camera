@@ -1,0 +1,20 @@
+<annotation>
+  <filename>27_Spa_Spa_27_23.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>160</xmin>
+      <ymin>118</ymin>
+      <xmax>588</xmax>
+      <ymax>768</ymax>
+    </bndbox>
+  </object>
+</annotation>

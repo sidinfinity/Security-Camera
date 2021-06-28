@@ -1,0 +1,32 @@
+<annotation>
+  <filename>5_Car_Accident_Car_Crash_5_781.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>577</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>987</xmin>
+      <ymin>78</ymin>
+      <xmax>1010</xmax>
+      <ymax>96</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>853</xmin>
+      <ymin>70</ymin>
+      <xmax>874</xmax>
+      <ymax>85</ymax>
+    </bndbox>
+  </object>
+</annotation>

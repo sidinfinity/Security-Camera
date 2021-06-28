@@ -1,0 +1,20 @@
+<annotation>
+  <filename>39_Ice_Skating_iceskiing_39_1003.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1407</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>63</xmin>
+      <ymin>118</ymin>
+      <xmax>1024</xmax>
+      <ymax>969</ymax>
+    </bndbox>
+  </object>
+</annotation>

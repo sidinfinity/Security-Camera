@@ -1,0 +1,32 @@
+<annotation>
+  <filename>37_Soccer_soccer_ball_37_314.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>578</xmin>
+      <ymin>146</ymin>
+      <xmax>623</xmax>
+      <ymax>195</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>305</xmin>
+      <ymin>149</ymin>
+      <xmax>371</xmax>
+      <ymax>200</ymax>
+    </bndbox>
+  </object>
+</annotation>

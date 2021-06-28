@@ -1,0 +1,32 @@
+<annotation>
+  <filename>48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_889.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>785</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>265</xmin>
+      <ymin>21</ymin>
+      <xmax>333</xmax>
+      <ymax>72</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>782</xmin>
+      <ymin>170</ymin>
+      <xmax>839</xmax>
+      <ymax>215</ymax>
+    </bndbox>
+  </object>
+</annotation>

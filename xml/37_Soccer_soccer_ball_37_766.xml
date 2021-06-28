@@ -1,0 +1,20 @@
+<annotation>
+  <filename>37_Soccer_soccer_ball_37_766.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>576</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>287</xmin>
+      <ymin>29</ymin>
+      <xmax>351</xmax>
+      <ymax>75</ymax>
+    </bndbox>
+  </object>
+</annotation>

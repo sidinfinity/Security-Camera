@@ -1,0 +1,32 @@
+<annotation>
+  <filename>50_Celebration_Or_Party_birthdayparty_50_352.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>682</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>536</xmin>
+      <ymin>160</ymin>
+      <xmax>776</xmax>
+      <ymax>376</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>496</xmin>
+      <ymin>300</ymin>
+      <xmax>684</xmax>
+      <ymax>446</ymax>
+    </bndbox>
+  </object>
+</annotation>

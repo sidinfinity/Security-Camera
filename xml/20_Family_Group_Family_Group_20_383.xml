@@ -1,0 +1,32 @@
+<annotation>
+  <filename>20_Family_Group_Family_Group_20_383.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>580</xmin>
+      <ymin>90</ymin>
+      <xmax>706</xmax>
+      <ymax>182</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>714</xmin>
+      <ymin>182</ymin>
+      <xmax>860</xmax>
+      <ymax>286</ymax>
+    </bndbox>
+  </object>
+</annotation>

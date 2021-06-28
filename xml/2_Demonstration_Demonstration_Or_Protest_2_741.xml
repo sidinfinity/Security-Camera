@@ -1,0 +1,20 @@
+<annotation>
+  <filename>2_Demonstration_Demonstration_Or_Protest_2_741.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>850</xmin>
+      <ymin>339</ymin>
+      <xmax>877</xmax>
+      <ymax>362</ymax>
+    </bndbox>
+  </object>
+</annotation>

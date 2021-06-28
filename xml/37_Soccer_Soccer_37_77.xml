@@ -1,0 +1,32 @@
+<annotation>
+  <filename>37_Soccer_Soccer_37_77.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1366</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>320</xmin>
+      <ymin>184</ymin>
+      <xmax>427</xmax>
+      <ymax>269</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>483</xmin>
+      <ymin>243</ymin>
+      <xmax>571</xmax>
+      <ymax>331</ymax>
+    </bndbox>
+  </object>
+</annotation>

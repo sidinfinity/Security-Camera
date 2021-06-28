@@ -1,0 +1,32 @@
+<annotation>
+  <filename>35_Basketball_playingbasketball_35_94.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1543</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>557</xmin>
+      <ymin>569</ymin>
+      <xmax>683</xmax>
+      <ymax>623</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>292</xmin>
+      <ymin>660</ymin>
+      <xmax>437</xmax>
+      <ymax>735</ymax>
+    </bndbox>
+  </object>
+</annotation>

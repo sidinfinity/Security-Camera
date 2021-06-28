@@ -1,0 +1,32 @@
+<annotation>
+  <filename>13_Interview_Interview_2_People_Visible_13_93.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>845</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>608</xmin>
+      <ymin>224</ymin>
+      <xmax>686</xmax>
+      <ymax>284</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>222</xmin>
+      <ymin>208</ymin>
+      <xmax>326</xmax>
+      <ymax>268</ymax>
+    </bndbox>
+  </object>
+</annotation>

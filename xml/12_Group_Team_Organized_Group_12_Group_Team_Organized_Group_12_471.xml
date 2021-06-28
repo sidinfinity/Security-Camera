@@ -1,0 +1,20 @@
+<annotation>
+  <filename>12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_471.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1434</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>297</xmin>
+      <ymin>333</ymin>
+      <xmax>767</xmax>
+      <ymax>725</ymax>
+    </bndbox>
+  </object>
+</annotation>

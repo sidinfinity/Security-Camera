@@ -1,0 +1,20 @@
+<annotation>
+  <filename>28_Sports_Fan_Sports_Fan_28_1005.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1468</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>290</xmin>
+      <ymin>350</ymin>
+      <xmax>869</xmax>
+      <ymax>777</ymax>
+    </bndbox>
+  </object>
+</annotation>

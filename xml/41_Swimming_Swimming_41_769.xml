@@ -1,0 +1,32 @@
+<annotation>
+  <filename>41_Swimming_Swimming_41_769.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1532</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>536</xmin>
+      <ymin>147</ymin>
+      <xmax>689</xmax>
+      <ymax>255</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>527</xmin>
+      <ymin>395</ymin>
+      <xmax>650</xmax>
+      <ymax>491</ymax>
+    </bndbox>
+  </object>
+</annotation>

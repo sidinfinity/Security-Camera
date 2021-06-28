@@ -1,0 +1,32 @@
+<annotation>
+  <filename>54_Rescue_firemanrescue_54_690.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>765</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>168</xmin>
+      <ymin>86</ymin>
+      <xmax>482</xmax>
+      <ymax>288</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>822</xmin>
+      <ymin>82</ymin>
+      <xmax>984</xmax>
+      <ymax>204</ymax>
+    </bndbox>
+  </object>
+</annotation>

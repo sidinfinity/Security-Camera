@@ -1,0 +1,20 @@
+<annotation>
+  <filename>49_Greeting_peoplegreeting_49_658.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>606</xmin>
+      <ymin>649</ymin>
+      <xmax>652</xmax>
+      <ymax>695</ymax>
+    </bndbox>
+  </object>
+</annotation>

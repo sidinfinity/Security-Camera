@@ -1,0 +1,20 @@
+<annotation>
+  <filename>0_Parade_Parade_0_745.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1540</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>384</xmin>
+      <ymin>228</ymin>
+      <xmax>786</xmax>
+      <ymax>516</ymax>
+    </bndbox>
+  </object>
+</annotation>

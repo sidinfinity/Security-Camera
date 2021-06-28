@@ -1,0 +1,32 @@
+<annotation>
+  <filename>52_Photographers_photographertakingphoto_52_151.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1291</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>204</xmin>
+      <ymin>247</ymin>
+      <xmax>268</xmax>
+      <ymax>286</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>268</xmin>
+      <ymin>250</ymin>
+      <xmax>330</xmax>
+      <ymax>291</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,20 @@
+<annotation>
+  <filename>51_Dresses_wearingdress_51_459.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1862</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>421</xmin>
+      <ymin>76</ymin>
+      <xmax>635</xmax>
+      <ymax>214</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+  <filename>12_Group_Group_12_Group_Group_12_697.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>494</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>226</xmin>
+      <ymin>180</ymin>
+      <xmax>312</xmax>
+      <ymax>248</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>676</xmin>
+      <ymin>168</ymin>
+      <xmax>792</xmax>
+      <ymax>258</ymax>
+    </bndbox>
+  </object>
+</annotation>

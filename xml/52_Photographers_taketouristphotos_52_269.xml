@@ -1,0 +1,32 @@
+<annotation>
+  <filename>52_Photographers_taketouristphotos_52_269.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>766</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>484</xmin>
+      <ymin>318</ymin>
+      <xmax>578</xmax>
+      <ymax>376</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>214</xmin>
+      <ymin>306</ymin>
+      <xmax>310</xmax>
+      <ymax>374</ymax>
+    </bndbox>
+  </object>
+</annotation>

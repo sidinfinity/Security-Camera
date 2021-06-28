@@ -1,0 +1,32 @@
+<annotation>
+  <filename>13_Interview_Interview_Sequences_13_790.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1010</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>564</xmin>
+      <ymin>104</ymin>
+      <xmax>712</xmax>
+      <ymax>204</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>300</xmin>
+      <ymin>316</ymin>
+      <xmax>476</xmax>
+      <ymax>434</ymax>
+    </bndbox>
+  </object>
+</annotation>

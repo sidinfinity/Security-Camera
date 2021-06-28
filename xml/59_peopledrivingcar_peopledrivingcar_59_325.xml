@@ -1,0 +1,20 @@
+<annotation>
+  <filename>59_peopledrivingcar_peopledrivingcar_59_325.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>616</xmin>
+      <ymin>280</ymin>
+      <xmax>768</xmax>
+      <ymax>418</ymax>
+    </bndbox>
+  </object>
+</annotation>

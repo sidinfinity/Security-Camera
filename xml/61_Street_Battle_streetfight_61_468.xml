@@ -1,0 +1,32 @@
+<annotation>
+  <filename>61_Street_Battle_streetfight_61_468.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>669</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>680</xmin>
+      <ymin>68</ymin>
+      <xmax>1024</xmax>
+      <ymax>410</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>184</xmin>
+      <ymin>22</ymin>
+      <xmax>670</xmax>
+      <ymax>388</ymax>
+    </bndbox>
+  </object>
+</annotation>

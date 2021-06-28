@@ -1,0 +1,20 @@
+<annotation>
+  <filename>18_Concerts_Concerts_18_1049.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>438</xmin>
+      <ymin>156</ymin>
+      <xmax>690</xmax>
+      <ymax>360</ymax>
+    </bndbox>
+  </object>
+</annotation>

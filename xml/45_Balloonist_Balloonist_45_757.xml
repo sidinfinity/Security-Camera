@@ -1,0 +1,32 @@
+<annotation>
+  <filename>45_Balloonist_Balloonist_45_757.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>547</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>782</xmin>
+      <ymin>272</ymin>
+      <xmax>805</xmax>
+      <ymax>298</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>897</xmin>
+      <ymin>264</ymin>
+      <xmax>921</xmax>
+      <ymax>278</ymax>
+    </bndbox>
+  </object>
+</annotation>

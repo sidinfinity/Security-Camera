@@ -1,0 +1,32 @@
+<annotation>
+  <filename>36_Football_americanfootball_ball_36_68.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1071</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>493</xmin>
+      <ymin>196</ymin>
+      <xmax>616</xmax>
+      <ymax>296</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>591</xmin>
+      <ymin>50</ymin>
+      <xmax>677</xmax>
+      <ymax>113</ymax>
+    </bndbox>
+  </object>
+</annotation>

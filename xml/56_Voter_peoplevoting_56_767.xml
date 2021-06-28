@@ -1,0 +1,32 @@
+<annotation>
+  <filename>56_Voter_peoplevoting_56_767.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>241</xmin>
+      <ymin>143</ymin>
+      <xmax>283</xmax>
+      <ymax>172</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>711</xmin>
+      <ymin>159</ymin>
+      <xmax>734</xmax>
+      <ymax>178</ymax>
+    </bndbox>
+  </object>
+</annotation>

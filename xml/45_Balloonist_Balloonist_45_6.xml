@@ -1,0 +1,20 @@
+<annotation>
+  <filename>45_Balloonist_Balloonist_45_6.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1240</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>494</xmin>
+      <ymin>1012</ymin>
+      <xmax>507</xmax>
+      <ymax>1023</ymax>
+    </bndbox>
+  </object>
+</annotation>

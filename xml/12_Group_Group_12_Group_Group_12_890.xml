@@ -1,0 +1,32 @@
+<annotation>
+  <filename>12_Group_Group_12_Group_Group_12_890.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>353</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>332</xmin>
+      <ymin>60</ymin>
+      <xmax>555</xmax>
+      <ymax>277</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>882</xmin>
+      <ymin>91</ymin>
+      <xmax>909</xmax>
+      <ymax>113</ymax>
+    </bndbox>
+  </object>
+</annotation>

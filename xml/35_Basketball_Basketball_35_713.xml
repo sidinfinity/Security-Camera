@@ -1,0 +1,32 @@
+<annotation>
+  <filename>35_Basketball_Basketball_35_713.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1192</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>303</xmin>
+      <ymin>447</ymin>
+      <xmax>575</xmax>
+      <ymax>656</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>586</xmin>
+      <ymin>815</ymin>
+      <xmax>795</xmax>
+      <ymax>1078</ymax>
+    </bndbox>
+  </object>
+</annotation>

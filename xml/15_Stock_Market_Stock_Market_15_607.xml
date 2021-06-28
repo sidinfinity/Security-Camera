@@ -1,0 +1,32 @@
+<annotation>
+  <filename>15_Stock_Market_Stock_Market_15_607.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>707</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>370</xmin>
+      <ymin>340</ymin>
+      <xmax>403</xmax>
+      <ymax>367</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1000</xmin>
+      <ymin>438</ymin>
+      <xmax>1014</xmax>
+      <ymax>450</ymax>
+    </bndbox>
+  </object>
+</annotation>

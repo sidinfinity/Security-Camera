@@ -1,0 +1,20 @@
+<annotation>
+  <filename>13_Interview_Interview_On_Location_13_595.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>282</xmin>
+      <ymin>110</ymin>
+      <xmax>816</xmax>
+      <ymax>460</ymax>
+    </bndbox>
+  </object>
+</annotation>

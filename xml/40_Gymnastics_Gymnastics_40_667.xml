@@ -1,0 +1,20 @@
+<annotation>
+  <filename>40_Gymnastics_Gymnastics_40_667.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1532</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>255</xmin>
+      <ymin>174</ymin>
+      <xmax>554</xmax>
+      <ymax>405</ymax>
+    </bndbox>
+  </object>
+</annotation>

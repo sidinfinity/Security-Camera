@@ -1,0 +1,32 @@
+<annotation>
+  <filename>4_Dancing_Dancing_4_835.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>666</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>320</xmin>
+      <ymin>124</ymin>
+      <xmax>498</xmax>
+      <ymax>234</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>538</xmin>
+      <ymin>100</ymin>
+      <xmax>752</xmax>
+      <ymax>232</ymax>
+    </bndbox>
+  </object>
+</annotation>

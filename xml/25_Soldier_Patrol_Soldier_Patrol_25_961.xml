@@ -1,0 +1,32 @@
+<annotation>
+  <filename>25_Soldier_Patrol_Soldier_Patrol_25_961.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>680</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>129</xmin>
+      <ymin>262</ymin>
+      <xmax>171</xmax>
+      <ymax>294</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>649</xmin>
+      <ymin>189</ymin>
+      <xmax>691</xmax>
+      <ymax>216</ymax>
+    </bndbox>
+  </object>
+</annotation>

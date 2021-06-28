@@ -1,0 +1,20 @@
+<annotation>
+  <filename>53_Raid_policeraid_53_683.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>146</xmin>
+      <ymin>319</ymin>
+      <xmax>181</xmax>
+      <ymax>344</ymax>
+    </bndbox>
+  </object>
+</annotation>
