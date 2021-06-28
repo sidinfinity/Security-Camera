@@ -1,1 +1,32 @@
-<annotation><filename>32_Worker_Laborer_Worker_Laborer_32_810.jpg</filename><size><width>1024</width><height>1666</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>189</xmin><ymin>397</ymin><xmax>384</xmax><ymax>550</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>465</xmin><ymin>254</ymin><xmax>621</xmax><ymax>368</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>32_Worker_Laborer_Worker_Laborer_32_810.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1666</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>189</xmin>
+      <ymin>397</ymin>
+      <xmax>384</xmax>
+      <ymax>550</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>465</xmin>
+      <ymin>254</ymin>
+      <xmax>621</xmax>
+      <ymax>368</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,1 +1,32 @@
-<annotation><filename>4_Dancing_Dancing_4_414.jpg</filename><size><width>1024</width><height>1572</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>383</xmin><ymin>113</ymin><xmax>561</xmax><ymax>223</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>469</xmin><ymin>107</ymin><xmax>625</xmax><ymax>227</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>4_Dancing_Dancing_4_414.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1572</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>383</xmin>
+      <ymin>113</ymin>
+      <xmax>561</xmax>
+      <ymax>223</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>469</xmin>
+      <ymin>107</ymin>
+      <xmax>625</xmax>
+      <ymax>227</ymax>
+    </bndbox>
+  </object>
+</annotation>

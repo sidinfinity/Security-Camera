@@ -1,1 +1,32 @@
-<annotation><filename>49_Greeting_peoplegreeting_49_983.jpg</filename><size><width>1024</width><height>683</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>298</xmin><ymin>166</ymin><xmax>322</xmax><ymax>182</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>234</xmin><ymin>184</ymin><xmax>255</xmax><ymax>200</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>49_Greeting_peoplegreeting_49_983.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>298</xmin>
+      <ymin>166</ymin>
+      <xmax>322</xmax>
+      <ymax>182</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>234</xmin>
+      <ymin>184</ymin>
+      <xmax>255</xmax>
+      <ymax>200</ymax>
+    </bndbox>
+  </object>
+</annotation>

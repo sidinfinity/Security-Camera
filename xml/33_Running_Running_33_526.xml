@@ -1,1 +1,44 @@
-<annotation><filename>33_Running_Running_33_526.jpg</filename><size><width>1024</width><height>576</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>204</xmin><ymin>86</ymin><xmax>330</xmax><ymax>178</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>446</xmin><ymin>148</ymin><xmax>558</xmax><ymax>236</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>668</xmin><ymin>124</ymin><xmax>794</xmax><ymax>234</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>33_Running_Running_33_526.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>576</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>204</xmin>
+      <ymin>86</ymin>
+      <xmax>330</xmax>
+      <ymax>178</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>446</xmin>
+      <ymin>148</ymin>
+      <xmax>558</xmax>
+      <ymax>236</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>668</xmin>
+      <ymin>124</ymin>
+      <xmax>794</xmax>
+      <ymax>234</ymax>
+    </bndbox>
+  </object>
+</annotation>

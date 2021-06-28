@@ -1,1 +1,44 @@
-<annotation><filename>51_Dresses_wearingdress_51_551.jpg</filename><size><width>1024</width><height>1832</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>86</xmin><ymin>186</ymin><xmax>329</xmax><ymax>340</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>426</xmin><ymin>201</ymin><xmax>734</xmax><ymax>405</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>773</xmin><ymin>319</ymin><xmax>999</xmax><ymax>469</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>51_Dresses_wearingdress_51_551.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1832</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>86</xmin>
+      <ymin>186</ymin>
+      <xmax>329</xmax>
+      <ymax>340</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>426</xmin>
+      <ymin>201</ymin>
+      <xmax>734</xmax>
+      <ymax>405</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>773</xmin>
+      <ymin>319</ymin>
+      <xmax>999</xmax>
+      <ymax>469</ymax>
+    </bndbox>
+  </object>
+</annotation>

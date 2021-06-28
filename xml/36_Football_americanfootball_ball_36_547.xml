@@ -1,1 +1,32 @@
-<annotation><filename>36_Football_americanfootball_ball_36_547.jpg</filename><size><width>1024</width><height>640</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>624</xmin><ymin>158</ymin><xmax>750</xmax><ymax>274</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>794</xmin><ymin>100</ymin><xmax>960</xmax><ymax>236</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>36_Football_americanfootball_ball_36_547.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>624</xmin>
+      <ymin>158</ymin>
+      <xmax>750</xmax>
+      <ymax>274</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>794</xmin>
+      <ymin>100</ymin>
+      <xmax>960</xmax>
+      <ymax>236</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,1 +1,32 @@
-<annotation><filename>42_Car_Racing_Nascar_42_601.jpg</filename><size><width>1024</width><height>687</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>146</xmin><ymin>68</ymin><xmax>204</xmax><ymax>108</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>267</xmin><ymin>71</ymin><xmax>320</xmax><ymax>105</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>42_Car_Racing_Nascar_42_601.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>687</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>146</xmin>
+      <ymin>68</ymin>
+      <xmax>204</xmax>
+      <ymax>108</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>267</xmin>
+      <ymin>71</ymin>
+      <xmax>320</xmax>
+      <ymax>105</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,1 +1,32 @@
-<annotation><filename>52_Photographers_taketouristphotos_52_110.jpg</filename><size><width>1024</width><height>886</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>654</xmin><ymin>200</ymin><xmax>676</xmax><ymax>216</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>196</xmin><ymin>390</ymin><xmax>213</xmax><ymax>403</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>52_Photographers_taketouristphotos_52_110.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>886</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>654</xmin>
+      <ymin>200</ymin>
+      <xmax>676</xmax>
+      <ymax>216</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>196</xmin>
+      <ymin>390</ymin>
+      <xmax>213</xmax>
+      <ymax>403</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,1 +1,32 @@
-<annotation><filename>22_Picnic_Picnic_22_803.jpg</filename><size><width>1024</width><height>687</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>430</xmin><ymin>275</ymin><xmax>478</xmax><ymax>322</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>536</xmin><ymin>196</ymin><xmax>594</xmax><ymax>251</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>22_Picnic_Picnic_22_803.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>687</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>430</xmin>
+      <ymin>275</ymin>
+      <xmax>478</xmax>
+      <ymax>322</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>536</xmin>
+      <ymin>196</ymin>
+      <xmax>594</xmax>
+      <ymax>251</ymax>
+    </bndbox>
+  </object>
+</annotation>

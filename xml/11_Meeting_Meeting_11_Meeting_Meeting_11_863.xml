@@ -1,1 +1,32 @@
-<annotation><filename>11_Meeting_Meeting_11_Meeting_Meeting_11_863.jpg</filename><size><width>1024</width><height>1036</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>247</xmin><ymin>142</ymin><xmax>536</xmax><ymax>389</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>639</xmin><ymin>306</ymin><xmax>858</xmax><ymax>452</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>11_Meeting_Meeting_11_Meeting_Meeting_11_863.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1036</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>247</xmin>
+      <ymin>142</ymin>
+      <xmax>536</xmax>
+      <ymax>389</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>639</xmin>
+      <ymin>306</ymin>
+      <xmax>858</xmax>
+      <ymax>452</ymax>
+    </bndbox>
+  </object>
+</annotation>

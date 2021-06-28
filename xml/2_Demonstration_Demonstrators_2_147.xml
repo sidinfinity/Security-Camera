@@ -1,1 +1,32 @@
-<annotation><filename>2_Demonstration_Demonstrators_2_147.jpg</filename><size><width>1024</width><height>754</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>158</xmin><ymin>30</ymin><xmax>242</xmax><ymax>98</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>422</xmin><ymin>178</ymin><xmax>694</xmax><ymax>380</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>2_Demonstration_Demonstrators_2_147.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>754</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>158</xmin>
+      <ymin>30</ymin>
+      <xmax>242</xmax>
+      <ymax>98</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>422</xmin>
+      <ymin>178</ymin>
+      <xmax>694</xmax>
+      <ymax>380</ymax>
+    </bndbox>
+  </object>
+</annotation>

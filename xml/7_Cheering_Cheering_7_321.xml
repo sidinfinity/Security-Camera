@@ -1,1 +1,20 @@
-<annotation><filename>7_Cheering_Cheering_7_321.jpg</filename><size><width>1024</width><height>1460</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>419</xmin><ymin>434</ymin><xmax>696</xmax><ymax>614</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>7_Cheering_Cheering_7_321.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1460</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>419</xmin>
+      <ymin>434</ymin>
+      <xmax>696</xmax>
+      <ymax>614</ymax>
+    </bndbox>
+  </object>
+</annotation>

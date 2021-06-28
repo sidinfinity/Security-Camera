@@ -1,1 +1,32 @@
-<annotation><filename>48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_497.jpg</filename><size><width>1024</width><height>1408</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>256</xmin><ymin>143</ymin><xmax>413</xmax><ymax>272</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>746</xmin><ymin>44</ymin><xmax>922</xmax><ymax>173</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_497.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1408</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>256</xmin>
+      <ymin>143</ymin>
+      <xmax>413</xmax>
+      <ymax>272</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>746</xmin>
+      <ymin>44</ymin>
+      <xmax>922</xmax>
+      <ymax>173</ymax>
+    </bndbox>
+  </object>
+</annotation>

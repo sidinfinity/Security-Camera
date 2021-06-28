@@ -1,1 +1,44 @@
-<annotation><filename>49_Greeting_peoplegreeting_49_693.jpg</filename><size><width>1024</width><height>683</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>434</xmin><ymin>252</ymin><xmax>512</xmax><ymax>322</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>530</xmin><ymin>254</ymin><xmax>622</xmax><ymax>314</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>916</xmin><ymin>100</ymin><xmax>1024</xmax><ymax>206</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>49_Greeting_peoplegreeting_49_693.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>434</xmin>
+      <ymin>252</ymin>
+      <xmax>512</xmax>
+      <ymax>322</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>530</xmin>
+      <ymin>254</ymin>
+      <xmax>622</xmax>
+      <ymax>314</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>916</xmin>
+      <ymin>100</ymin>
+      <xmax>1024</xmax>
+      <ymax>206</ymax>
+    </bndbox>
+  </object>
+</annotation>

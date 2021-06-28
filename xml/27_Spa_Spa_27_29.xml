@@ -1,1 +1,32 @@
-<annotation><filename>27_Spa_Spa_27_29.jpg</filename><size><width>1024</width><height>683</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>332</xmin><ymin>365</ymin><xmax>384</xmax><ymax>407</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>669</xmin><ymin>353</ymin><xmax>740</xmax><ymax>403</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>27_Spa_Spa_27_29.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>332</xmin>
+      <ymin>365</ymin>
+      <xmax>384</xmax>
+      <ymax>407</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>669</xmin>
+      <ymin>353</ymin>
+      <xmax>740</xmax>
+      <ymax>403</ymax>
+    </bndbox>
+  </object>
+</annotation>

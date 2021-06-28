@@ -1,1 +1,32 @@
-<annotation><filename>25_Soldier_Patrol_Soldier_Patrol_25_36.jpg</filename><size><width>1024</width><height>776</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>521</xmin><ymin>339</ymin><xmax>569</xmax><ymax>379</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>677</xmin><ymin>371</ymin><xmax>727</xmax><ymax>415</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>25_Soldier_Patrol_Soldier_Patrol_25_36.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>776</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>521</xmin>
+      <ymin>339</ymin>
+      <xmax>569</xmax>
+      <ymax>379</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>677</xmin>
+      <ymin>371</ymin>
+      <xmax>727</xmax>
+      <ymax>415</ymax>
+    </bndbox>
+  </object>
+</annotation>

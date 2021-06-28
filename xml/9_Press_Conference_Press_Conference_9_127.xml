@@ -1,1 +1,32 @@
-<annotation><filename>9_Press_Conference_Press_Conference_9_127.jpg</filename><size><width>1024</width><height>680</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>208</xmin><ymin>118</ymin><xmax>318</xmax><ymax>214</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>90</xmin><ymin>48</ymin><xmax>328</xmax><ymax>260</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>9_Press_Conference_Press_Conference_9_127.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>680</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>208</xmin>
+      <ymin>118</ymin>
+      <xmax>318</xmax>
+      <ymax>214</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>90</xmin>
+      <ymin>48</ymin>
+      <xmax>328</xmax>
+      <ymax>260</ymax>
+    </bndbox>
+  </object>
+</annotation>

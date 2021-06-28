@@ -1,1 +1,32 @@
-<annotation><filename>16_Award_Ceremony_Awards_Ceremony_16_372.jpg</filename><size><width>1024</width><height>768</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>418</xmin><ymin>30</ymin><xmax>642</xmax><ymax>178</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>530</xmin><ymin>258</ymin><xmax>616</xmax><ymax>412</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>16_Award_Ceremony_Awards_Ceremony_16_372.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>418</xmin>
+      <ymin>30</ymin>
+      <xmax>642</xmax>
+      <ymax>178</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>530</xmin>
+      <ymin>258</ymin>
+      <xmax>616</xmax>
+      <ymax>412</ymax>
+    </bndbox>
+  </object>
+</annotation>

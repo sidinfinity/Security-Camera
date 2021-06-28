@@ -1,1 +1,32 @@
-<annotation><filename>35_Basketball_basketballgame_ball_35_318.jpg</filename><size><width>1024</width><height>684</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>670</xmin><ymin>26</ymin><xmax>922</xmax><ymax>222</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>306</xmin><ymin>36</ymin><xmax>482</xmax><ymax>246</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>35_Basketball_basketballgame_ball_35_318.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>684</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>670</xmin>
+      <ymin>26</ymin>
+      <xmax>922</xmax>
+      <ymax>222</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>306</xmin>
+      <ymin>36</ymin>
+      <xmax>482</xmax>
+      <ymax>246</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,1 +1,32 @@
-<annotation><filename>58_Hockey_icehockey_puck_58_712.jpg</filename><size><width>1024</width><height>681</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>434</xmin><ymin>76</ymin><xmax>556</xmax><ymax>170</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>582</xmin><ymin>158</ymin><xmax>706</xmax><ymax>224</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>58_Hockey_icehockey_puck_58_712.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>681</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>434</xmin>
+      <ymin>76</ymin>
+      <xmax>556</xmax>
+      <ymax>170</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>582</xmin>
+      <ymin>158</ymin>
+      <xmax>706</xmax>
+      <ymax>224</ymax>
+    </bndbox>
+  </object>
+</annotation>

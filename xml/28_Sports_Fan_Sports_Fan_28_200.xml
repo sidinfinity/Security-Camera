@@ -1,1 +1,32 @@
-<annotation><filename>28_Sports_Fan_Sports_Fan_28_200.jpg</filename><size><width>1024</width><height>683</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>286</xmin><ymin>60</ymin><xmax>532</xmax><ymax>208</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>826</xmin><ymin>106</ymin><xmax>988</xmax><ymax>230</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>28_Sports_Fan_Sports_Fan_28_200.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>286</xmin>
+      <ymin>60</ymin>
+      <xmax>532</xmax>
+      <ymax>208</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>826</xmin>
+      <ymin>106</ymin>
+      <xmax>988</xmax>
+      <ymax>230</ymax>
+    </bndbox>
+  </object>
+</annotation>

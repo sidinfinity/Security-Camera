@@ -1,1 +1,32 @@
-<annotation><filename>18_Concerts_Concerts_18_1030.jpg</filename><size><width>1024</width><height>683</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>444</xmin><ymin>196</ymin><xmax>608</xmax><ymax>332</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>352</xmin><ymin>208</ymin><xmax>510</xmax><ymax>318</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>18_Concerts_Concerts_18_1030.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>444</xmin>
+      <ymin>196</ymin>
+      <xmax>608</xmax>
+      <ymax>332</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>352</xmin>
+      <ymin>208</ymin>
+      <xmax>510</xmax>
+      <ymax>318</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,1 +1,44 @@
-<annotation><filename>9_Press_Conference_Press_Conference_9_199.jpg</filename><size><width>1024</width><height>1182</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>318</xmin><ymin>355</ymin><xmax>567</xmax><ymax>535</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>588</xmin><ymin>7</ymin><xmax>713</xmax><ymax>118</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>812</xmin><ymin>816</ymin><xmax>960</xmax><ymax>906</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>9_Press_Conference_Press_Conference_9_199.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1182</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>318</xmin>
+      <ymin>355</ymin>
+      <xmax>567</xmax>
+      <ymax>535</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>588</xmin>
+      <ymin>7</ymin>
+      <xmax>713</xmax>
+      <ymax>118</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>812</xmin>
+      <ymin>816</ymin>
+      <xmax>960</xmax>
+      <ymax>906</ymax>
+    </bndbox>
+  </object>
+</annotation>

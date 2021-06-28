@@ -1,1 +1,20 @@
-<annotation><filename>13_Interview_Interview_On_Location_13_943.jpg</filename><size><width>1024</width><height>1542</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>325</xmin><ymin>205</ymin><xmax>801</xmax><ymax>554</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>13_Interview_Interview_On_Location_13_943.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1542</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>325</xmin>
+      <ymin>205</ymin>
+      <xmax>801</xmax>
+      <ymax>554</ymax>
+    </bndbox>
+  </object>
+</annotation>

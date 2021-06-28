@@ -1,1 +1,32 @@
-<annotation><filename>43_Row_Boat_Rowboat_43_922.jpg</filename><size><width>1024</width><height>1018</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>577</xmin><ymin>169</ymin><xmax>599</xmax><ymax>184</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>491</xmin><ymin>146</ymin><xmax>517</xmax><ymax>165</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>43_Row_Boat_Rowboat_43_922.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1018</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>577</xmin>
+      <ymin>169</ymin>
+      <xmax>599</xmax>
+      <ymax>184</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>491</xmin>
+      <ymin>146</ymin>
+      <xmax>517</xmax>
+      <ymax>165</ymax>
+    </bndbox>
+  </object>
+</annotation>

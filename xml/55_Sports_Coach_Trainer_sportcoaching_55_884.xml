@@ -1,1 +1,32 @@
-<annotation><filename>55_Sports_Coach_Trainer_sportcoaching_55_884.jpg</filename><size><width>1024</width><height>411</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>328</xmin><ymin>156</ymin><xmax>386</xmax><ymax>252</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>178</xmin><ymin>6</ymin><xmax>268</xmax><ymax>74</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>55_Sports_Coach_Trainer_sportcoaching_55_884.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>411</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>328</xmin>
+      <ymin>156</ymin>
+      <xmax>386</xmax>
+      <ymax>252</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>178</xmin>
+      <ymin>6</ymin>
+      <xmax>268</xmax>
+      <ymax>74</ymax>
+    </bndbox>
+  </object>
+</annotation>

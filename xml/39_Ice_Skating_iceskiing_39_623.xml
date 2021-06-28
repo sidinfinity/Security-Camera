@@ -1,1 +1,32 @@
-<annotation><filename>39_Ice_Skating_iceskiing_39_623.jpg</filename><size><width>1024</width><height>1364</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>492</xmin><ymin>732</ymin><xmax>541</xmax><ymax>774</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>239</xmin><ymin>775</ymin><xmax>251</xmax><ymax>784</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>39_Ice_Skating_iceskiing_39_623.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1364</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>492</xmin>
+      <ymin>732</ymin>
+      <xmax>541</xmax>
+      <ymax>774</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>239</xmin>
+      <ymin>775</ymin>
+      <xmax>251</xmax>
+      <ymax>784</ymax>
+    </bndbox>
+  </object>
+</annotation>

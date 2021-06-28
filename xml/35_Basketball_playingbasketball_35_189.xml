@@ -1,1 +1,20 @@
-<annotation><filename>35_Basketball_playingbasketball_35_189.jpg</filename><size><width>1024</width><height>754</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>374</xmin><ymin>178</ymin><xmax>550</xmax><ymax>312</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>35_Basketball_playingbasketball_35_189.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>754</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>374</xmin>
+      <ymin>178</ymin>
+      <xmax>550</xmax>
+      <ymax>312</ymax>
+    </bndbox>
+  </object>
+</annotation>

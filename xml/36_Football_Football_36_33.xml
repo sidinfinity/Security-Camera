@@ -1,1 +1,44 @@
-<annotation><filename>36_Football_Football_36_33.jpg</filename><size><width>1024</width><height>640</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>170</xmin><ymin>24</ymin><xmax>244</xmax><ymax>80</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>482</xmin><ymin>102</ymin><xmax>560</xmax><ymax>160</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>772</xmin><ymin>62</ymin><xmax>854</xmax><ymax>114</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>36_Football_Football_36_33.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>170</xmin>
+      <ymin>24</ymin>
+      <xmax>244</xmax>
+      <ymax>80</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>482</xmin>
+      <ymin>102</ymin>
+      <xmax>560</xmax>
+      <ymax>160</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>772</xmin>
+      <ymin>62</ymin>
+      <xmax>854</xmax>
+      <ymax>114</ymax>
+    </bndbox>
+  </object>
+</annotation>

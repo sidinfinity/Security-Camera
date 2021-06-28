@@ -1,1 +1,44 @@
-<annotation><filename>40_Gymnastics_Gymnastics_40_213.jpg</filename><size><width>1024</width><height>867</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>348</xmin><ymin>121</ymin><xmax>423</xmax><ymax>180</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>507</xmin><ymin>117</ymin><xmax>579</xmax><ymax>173</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>630</xmin><ymin>153</ymin><xmax>691</xmax><ymax>203</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>40_Gymnastics_Gymnastics_40_213.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>867</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>348</xmin>
+      <ymin>121</ymin>
+      <xmax>423</xmax>
+      <ymax>180</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>507</xmin>
+      <ymin>117</ymin>
+      <xmax>579</xmax>
+      <ymax>173</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>630</xmin>
+      <ymin>153</ymin>
+      <xmax>691</xmax>
+      <ymax>203</ymax>
+    </bndbox>
+  </object>
+</annotation>

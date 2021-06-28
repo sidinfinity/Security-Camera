@@ -1,1 +1,20 @@
-<annotation><filename>1_Handshaking_Handshaking_1_281.jpg</filename><size><width>1024</width><height>762</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>254</xmin><ymin>110</ymin><xmax>380</xmax><ymax>220</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>1_Handshaking_Handshaking_1_281.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>762</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>254</xmin>
+      <ymin>110</ymin>
+      <xmax>380</xmax>
+      <ymax>220</ymax>
+    </bndbox>
+  </object>
+</annotation>

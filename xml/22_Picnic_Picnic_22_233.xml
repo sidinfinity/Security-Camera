@@ -1,1 +1,44 @@
-<annotation><filename>22_Picnic_Picnic_22_233.jpg</filename><size><width>1024</width><height>684</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>330</xmin><ymin>337</ymin><xmax>363</xmax><ymax>373</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>563</xmin><ymin>291</ymin><xmax>602</xmax><ymax>331</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>654</xmin><ymin>300</ymin><xmax>695</xmax><ymax>337</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>22_Picnic_Picnic_22_233.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>684</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>330</xmin>
+      <ymin>337</ymin>
+      <xmax>363</xmax>
+      <ymax>373</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>563</xmin>
+      <ymin>291</ymin>
+      <xmax>602</xmax>
+      <ymax>331</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>654</xmin>
+      <ymin>300</ymin>
+      <xmax>695</xmax>
+      <ymax>337</ymax>
+    </bndbox>
+  </object>
+</annotation>

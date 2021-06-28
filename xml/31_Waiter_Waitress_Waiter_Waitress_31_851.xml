@@ -1,1 +1,20 @@
-<annotation><filename>31_Waiter_Waitress_Waiter_Waitress_31_851.jpg</filename><size><width>1024</width><height>671</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>104</xmin><ymin>174</ymin><xmax>354</xmax><ymax>384</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>31_Waiter_Waitress_Waiter_Waitress_31_851.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>671</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>104</xmin>
+      <ymin>174</ymin>
+      <xmax>354</xmax>
+      <ymax>384</ymax>
+    </bndbox>
+  </object>
+</annotation>

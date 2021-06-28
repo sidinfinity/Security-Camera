@@ -1,1 +1,32 @@
-<annotation><filename>2_Demonstration_Protesters_2_863.jpg</filename><size><width>1024</width><height>803</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>586</xmin><ymin>224</ymin><xmax>710</xmax><ymax>302</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>168</xmin><ymin>214</ymin><xmax>316</xmax><ymax>312</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>2_Demonstration_Protesters_2_863.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>803</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>586</xmin>
+      <ymin>224</ymin>
+      <xmax>710</xmax>
+      <ymax>302</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>168</xmin>
+      <ymin>214</ymin>
+      <xmax>316</xmax>
+      <ymax>312</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,1 +1,20 @@
-<annotation><filename>8_Election_Campain_Election_Campaign_8_399.jpg</filename><size><width>1024</width><height>794</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>348</xmin><ymin>106</ymin><xmax>854</xmax><ymax>440</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>8_Election_Campain_Election_Campaign_8_399.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>794</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>348</xmin>
+      <ymin>106</ymin>
+      <xmax>854</xmax>
+      <ymax>440</ymax>
+    </bndbox>
+  </object>
+</annotation>

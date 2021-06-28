@@ -1,1 +1,44 @@
-<annotation><filename>56_Voter_peoplevoting_56_543.jpg</filename><size><width>1024</width><height>1300</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>429</xmin><ymin>53</ymin><xmax>599</xmax><ymax>190</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>175</xmin><ymin>244</ymin><xmax>312</xmax><ymax>335</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>722</xmin><ymin>480</ymin><xmax>826</xmax><ymax>607</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>56_Voter_peoplevoting_56_543.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1300</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>429</xmin>
+      <ymin>53</ymin>
+      <xmax>599</xmax>
+      <ymax>190</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>175</xmin>
+      <ymin>244</ymin>
+      <xmax>312</xmax>
+      <ymax>335</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>722</xmin>
+      <ymin>480</ymin>
+      <xmax>826</xmax>
+      <ymax>607</ymax>
+    </bndbox>
+  </object>
+</annotation>

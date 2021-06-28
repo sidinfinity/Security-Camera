@@ -1,1 +1,32 @@
-<annotation><filename>19_Couple_Couple_19_563.jpg</filename><size><width>1024</width><height>1265</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>77</xmin><ymin>393</ymin><xmax>186</xmax><ymax>512</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>186</xmin><ymin>42</ymin><xmax>307</xmax><ymax>141</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>19_Couple_Couple_19_563.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1265</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>77</xmin>
+      <ymin>393</ymin>
+      <xmax>186</xmax>
+      <ymax>512</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>186</xmin>
+      <ymin>42</ymin>
+      <xmax>307</xmax>
+      <ymax>141</ymax>
+    </bndbox>
+  </object>
+</annotation>

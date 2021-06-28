@@ -1,1 +1,20 @@
-<annotation><filename>54_Rescue_rescuepeople_54_847.jpg</filename><size><width>1024</width><height>768</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>304</xmin><ymin>20</ymin><xmax>494</xmax><ymax>164</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>54_Rescue_rescuepeople_54_847.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>304</xmin>
+      <ymin>20</ymin>
+      <xmax>494</xmax>
+      <ymax>164</ymax>
+    </bndbox>
+  </object>
+</annotation>

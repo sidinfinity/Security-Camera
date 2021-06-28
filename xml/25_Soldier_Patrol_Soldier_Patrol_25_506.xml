@@ -1,1 +1,44 @@
-<annotation><filename>25_Soldier_Patrol_Soldier_Patrol_25_506.jpg</filename><size><width>1024</width><height>679</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>352</xmin><ymin>198</ymin><xmax>428</xmax><ymax>254</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>768</xmin><ymin>114</ymin><xmax>890</xmax><ymax>222</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>420</xmin><ymin>134</ymin><xmax>530</xmax><ymax>226</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>25_Soldier_Patrol_Soldier_Patrol_25_506.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>679</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>352</xmin>
+      <ymin>198</ymin>
+      <xmax>428</xmax>
+      <ymax>254</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>768</xmin>
+      <ymin>114</ymin>
+      <xmax>890</xmax>
+      <ymax>222</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>420</xmin>
+      <ymin>134</ymin>
+      <xmax>530</xmax>
+      <ymax>226</ymax>
+    </bndbox>
+  </object>
+</annotation>

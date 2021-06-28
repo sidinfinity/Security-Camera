@@ -1,1 +1,44 @@
-<annotation><filename>2_Demonstration_Demonstration_Or_Protest_2_55.jpg</filename><size><width>1024</width><height>1748</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>751</xmin><ymin>377</ymin><xmax>798</xmax><ymax>419</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>430</xmin><ymin>262</ymin><xmax>540</xmax><ymax>362</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>46</xmin><ymin>463</ymin><xmax>61</xmax><ymax>479</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>2_Demonstration_Demonstration_Or_Protest_2_55.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1748</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>751</xmin>
+      <ymin>377</ymin>
+      <xmax>798</xmax>
+      <ymax>419</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>430</xmin>
+      <ymin>262</ymin>
+      <xmax>540</xmax>
+      <ymax>362</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>46</xmin>
+      <ymin>463</ymin>
+      <xmax>61</xmax>
+      <ymax>479</ymax>
+    </bndbox>
+  </object>
+</annotation>

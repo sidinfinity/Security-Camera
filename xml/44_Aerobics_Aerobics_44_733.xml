@@ -1,1 +1,20 @@
-<annotation><filename>44_Aerobics_Aerobics_44_733.jpg</filename><size><width>1024</width><height>1379</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>585</xmin><ymin>102</ymin><xmax>712</xmax><ymax>161</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>44_Aerobics_Aerobics_44_733.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1379</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>585</xmin>
+      <ymin>102</ymin>
+      <xmax>712</xmax>
+      <ymax>161</ymax>
+    </bndbox>
+  </object>
+</annotation>

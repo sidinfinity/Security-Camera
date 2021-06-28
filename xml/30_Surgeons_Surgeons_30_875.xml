@@ -1,1 +1,44 @@
-<annotation><filename>30_Surgeons_Surgeons_30_875.jpg</filename><size><width>1024</width><height>682</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>46</xmin><ymin>44</ymin><xmax>372</xmax><ymax>246</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>824</xmin><ymin>304</ymin><xmax>978</xmax><ymax>410</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>328</xmin><ymin>394</ymin><xmax>460</xmax><ymax>492</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>30_Surgeons_Surgeons_30_875.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>682</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>46</xmin>
+      <ymin>44</ymin>
+      <xmax>372</xmax>
+      <ymax>246</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>824</xmin>
+      <ymin>304</ymin>
+      <xmax>978</xmax>
+      <ymax>410</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>328</xmin>
+      <ymin>394</ymin>
+      <xmax>460</xmax>
+      <ymax>492</ymax>
+    </bndbox>
+  </object>
+</annotation>

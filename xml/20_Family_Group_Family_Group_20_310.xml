@@ -1,1 +1,44 @@
-<annotation><filename>20_Family_Group_Family_Group_20_310.jpg</filename><size><width>1024</width><height>757</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>236</xmin><ymin>242</ymin><xmax>316</xmax><ymax>300</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>674</xmin><ymin>196</ymin><xmax>740</xmax><ymax>266</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>650</xmin><ymin>396</ymin><xmax>710</xmax><ymax>500</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>20_Family_Group_Family_Group_20_310.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>757</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>236</xmin>
+      <ymin>242</ymin>
+      <xmax>316</xmax>
+      <ymax>300</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>674</xmin>
+      <ymin>196</ymin>
+      <xmax>740</xmax>
+      <ymax>266</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>650</xmin>
+      <ymin>396</ymin>
+      <xmax>710</xmax>
+      <ymax>500</ymax>
+    </bndbox>
+  </object>
+</annotation>

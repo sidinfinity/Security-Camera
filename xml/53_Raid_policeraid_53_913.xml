@@ -1,1 +1,20 @@
-<annotation><filename>53_Raid_policeraid_53_913.jpg</filename><size><width>1024</width><height>683</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>410</xmin><ymin>126</ymin><xmax>650</xmax><ymax>302</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>53_Raid_policeraid_53_913.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>410</xmin>
+      <ymin>126</ymin>
+      <xmax>650</xmax>
+      <ymax>302</ymax>
+    </bndbox>
+  </object>
+</annotation>

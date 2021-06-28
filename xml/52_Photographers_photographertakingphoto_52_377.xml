@@ -1,1 +1,20 @@
-<annotation><filename>52_Photographers_photographertakingphoto_52_377.jpg</filename><size><width>1024</width><height>681</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>820</xmin><ymin>285</ymin><xmax>849</xmax><ymax>303</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>52_Photographers_photographertakingphoto_52_377.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>681</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>820</xmin>
+      <ymin>285</ymin>
+      <xmax>849</xmax>
+      <ymax>303</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,1 +1,44 @@
-<annotation><filename>1_Handshaking_Handshaking_1_410.jpg</filename><size><width>1024</width><height>577</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>413</xmin><ymin>69</ymin><xmax>570</xmax><ymax>185</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>69</xmin><ymin>20</ymin><xmax>104</xmax><ymax>45</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>43</xmin><ymin>189</ymin><xmax>77</xmax><ymax>216</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>1_Handshaking_Handshaking_1_410.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>577</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>413</xmin>
+      <ymin>69</ymin>
+      <xmax>570</xmax>
+      <ymax>185</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>69</xmin>
+      <ymin>20</ymin>
+      <xmax>104</xmax>
+      <ymax>45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>43</xmin>
+      <ymin>189</ymin>
+      <xmax>77</xmax>
+      <ymax>216</ymax>
+    </bndbox>
+  </object>
+</annotation>

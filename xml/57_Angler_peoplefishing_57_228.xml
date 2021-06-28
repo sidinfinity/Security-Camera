@@ -1,1 +1,44 @@
-<annotation><filename>57_Angler_peoplefishing_57_228.jpg</filename><size><width>1024</width><height>683</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>484</xmin><ymin>244</ymin><xmax>501</xmax><ymax>259</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>641</xmin><ymin>273</ymin><xmax>655</xmax><ymax>287</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>363</xmin><ymin>309</ymin><xmax>381</xmax><ymax>324</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>57_Angler_peoplefishing_57_228.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>484</xmin>
+      <ymin>244</ymin>
+      <xmax>501</xmax>
+      <ymax>259</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>641</xmin>
+      <ymin>273</ymin>
+      <xmax>655</xmax>
+      <ymax>287</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>363</xmin>
+      <ymin>309</ymin>
+      <xmax>381</xmax>
+      <ymax>324</ymax>
+    </bndbox>
+  </object>
+</annotation>

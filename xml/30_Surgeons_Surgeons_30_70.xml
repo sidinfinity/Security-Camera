@@ -1,1 +1,32 @@
-<annotation><filename>30_Surgeons_Surgeons_30_70.jpg</filename><size><width>1024</width><height>770</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>580</xmin><ymin>258</ymin><xmax>662</xmax><ymax>388</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>362</xmin><ymin>184</ymin><xmax>524</xmax><ymax>272</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>30_Surgeons_Surgeons_30_70.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>770</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>580</xmin>
+      <ymin>258</ymin>
+      <xmax>662</xmax>
+      <ymax>388</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>362</xmin>
+      <ymin>184</ymin>
+      <xmax>524</xmax>
+      <ymax>272</ymax>
+    </bndbox>
+  </object>
+</annotation>

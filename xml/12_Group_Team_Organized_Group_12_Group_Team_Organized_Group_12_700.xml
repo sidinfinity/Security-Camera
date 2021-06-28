@@ -1,1 +1,32 @@
-<annotation><filename>12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_700.jpg</filename><size><width>1024</width><height>754</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>582</xmin><ymin>99</ymin><xmax>676</xmax><ymax>168</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>181</xmin><ymin>212</ymin><xmax>238</xmax><ymax>253</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_700.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>754</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>582</xmin>
+      <ymin>99</ymin>
+      <xmax>676</xmax>
+      <ymax>168</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>181</xmin>
+      <ymin>212</ymin>
+      <xmax>238</xmax>
+      <ymax>253</ymax>
+    </bndbox>
+  </object>
+</annotation>

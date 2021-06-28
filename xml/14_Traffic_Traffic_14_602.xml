@@ -1,1 +1,44 @@
-<annotation><filename>14_Traffic_Traffic_14_602.jpg</filename><size><width>1024</width><height>686</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>471</xmin><ymin>248</ymin><xmax>511</xmax><ymax>277</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>642</xmin><ymin>263</ymin><xmax>657</xmax><ymax>273</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>552</xmin><ymin>235</ymin><xmax>577</xmax><ymax>256</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>14_Traffic_Traffic_14_602.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>686</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>471</xmin>
+      <ymin>248</ymin>
+      <xmax>511</xmax>
+      <ymax>277</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>642</xmin>
+      <ymin>263</ymin>
+      <xmax>657</xmax>
+      <ymax>273</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>552</xmin>
+      <ymin>235</ymin>
+      <xmax>577</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+</annotation>

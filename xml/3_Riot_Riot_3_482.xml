@@ -1,1 +1,32 @@
-<annotation><filename>3_Riot_Riot_3_482.jpg</filename><size><width>1024</width><height>1320</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>397</xmin><ymin>165</ymin><xmax>627</xmax><ymax>358</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>224</xmin><ymin>348</ymin><xmax>436</xmax><ymax>523</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>3_Riot_Riot_3_482.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1320</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>397</xmin>
+      <ymin>165</ymin>
+      <xmax>627</xmax>
+      <ymax>358</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>224</xmin>
+      <ymin>348</ymin>
+      <xmax>436</xmax>
+      <ymax>523</ymax>
+    </bndbox>
+  </object>
+</annotation>

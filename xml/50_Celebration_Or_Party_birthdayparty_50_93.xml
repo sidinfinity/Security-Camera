@@ -1,1 +1,32 @@
-<annotation><filename>50_Celebration_Or_Party_birthdayparty_50_93.jpg</filename><size><width>1024</width><height>765</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>520</xmin><ymin>448</ymin><xmax>537</xmax><ymax>462</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>551</xmin><ymin>450</ymin><xmax>568</xmax><ymax>461</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>50_Celebration_Or_Party_birthdayparty_50_93.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>765</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>520</xmin>
+      <ymin>448</ymin>
+      <xmax>537</xmax>
+      <ymax>462</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>551</xmin>
+      <ymin>450</ymin>
+      <xmax>568</xmax>
+      <ymax>461</ymax>
+    </bndbox>
+  </object>
+</annotation>

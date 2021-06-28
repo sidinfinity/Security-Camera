@@ -1,1 +1,44 @@
-<annotation><filename>52_Photographers_photographertakingphoto_52_555.jpg</filename><size><width>1024</width><height>768</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>27</xmin><ymin>213</ymin><xmax>65</xmax><ymax>240</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>817</xmin><ymin>271</ymin><xmax>863</xmax><ymax>302</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>754</xmin><ymin>310</ymin><xmax>791</xmax><ymax>335</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>52_Photographers_photographertakingphoto_52_555.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>27</xmin>
+      <ymin>213</ymin>
+      <xmax>65</xmax>
+      <ymax>240</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>817</xmin>
+      <ymin>271</ymin>
+      <xmax>863</xmax>
+      <ymax>302</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>754</xmin>
+      <ymin>310</ymin>
+      <xmax>791</xmax>
+      <ymax>335</ymax>
+    </bndbox>
+  </object>
+</annotation>

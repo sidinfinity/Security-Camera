@@ -1,1 +1,44 @@
-<annotation><filename>39_Ice_Skating_Ice_Skating_39_229.jpg</filename><size><width>1024</width><height>634</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>793</xmin><ymin>248</ymin><xmax>846</xmax><ymax>291</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>485</xmin><ymin>37</ymin><xmax>532</xmax><ymax>74</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>149</xmin><ymin>71</ymin><xmax>189</xmax><ymax>109</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>39_Ice_Skating_Ice_Skating_39_229.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>634</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>793</xmin>
+      <ymin>248</ymin>
+      <xmax>846</xmax>
+      <ymax>291</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>485</xmin>
+      <ymin>37</ymin>
+      <xmax>532</xmax>
+      <ymax>74</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>149</xmin>
+      <ymin>71</ymin>
+      <xmax>189</xmax>
+      <ymax>109</ymax>
+    </bndbox>
+  </object>
+</annotation>

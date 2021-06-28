@@ -41,7 +41,7 @@ class GenerateXml:
 
         arquivo = ET.ElementTree(annotation)
         img_file = os.path.join(self.xml_dir, file_name+".xml")
-        arquivo.write(img_file, pretty_print=False)
+        arquivo.write(img_file, pretty_print=True)
 
 
 def createBox(x, y, height, width):

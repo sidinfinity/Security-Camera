@@ -1,1 +1,32 @@
-<annotation><filename>2_Demonstration_Political_Rally_2_772.jpg</filename><size><width>1024</width><height>1371</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>19</xmin><ymin>359</ymin><xmax>102</xmax><ymax>413</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>571</xmin><ymin>303</ymin><xmax>732</xmax><ymax>432</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>2_Demonstration_Political_Rally_2_772.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1371</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>19</xmin>
+      <ymin>359</ymin>
+      <xmax>102</xmax>
+      <ymax>413</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>571</xmin>
+      <ymin>303</ymin>
+      <xmax>732</xmax>
+      <ymax>432</ymax>
+    </bndbox>
+  </object>
+</annotation>

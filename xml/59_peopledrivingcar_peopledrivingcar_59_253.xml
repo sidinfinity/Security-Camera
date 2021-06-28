@@ -1,1 +1,32 @@
-<annotation><filename>59_peopledrivingcar_peopledrivingcar_59_253.jpg</filename><size><width>1024</width><height>713</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>336</xmin><ymin>170</ymin><xmax>440</xmax><ymax>228</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>628</xmin><ymin>180</ymin><xmax>714</xmax><ymax>248</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>59_peopledrivingcar_peopledrivingcar_59_253.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>713</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>336</xmin>
+      <ymin>170</ymin>
+      <xmax>440</xmax>
+      <ymax>228</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>628</xmin>
+      <ymin>180</ymin>
+      <xmax>714</xmax>
+      <ymax>248</ymax>
+    </bndbox>
+  </object>
+</annotation>

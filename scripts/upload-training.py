@@ -9,8 +9,9 @@ import socket
 
 from tqdm import tqdm
 
-model_id = "a05ae8fa-b1b4-4638-b303-8de1bd92e020"
-api_key = "lAKaGYHp5e4BMxLJhB1UMfDSxklAfmp0"
+model_id = "49fb94bf-128b-4a8b-8242-dbf2d7f06f65"
+api_key = "WbeirrLIJJ696lyWin1TAw6z25NxS4Mq"
+
 
 for xmlFile in tqdm(os.listdir("../xml/")):
     if xmlFile.endswith(".xml"):
@@ -40,8 +41,9 @@ for xmlFile in tqdm(os.listdir("../xml/")):
                     objDict[str(element.tag)] = element.text
                     bBoxes.append(objDict)
 
-        url = 'https://app.nanonets.com/#/od/upload/' + str(model_id)
+        url = 'https://app.nanonets.com/api/v2/ObjectDetection/Model/' + model_id + '/UploadFile/'
         info = ("", json.dumps(([{"filename": filename, "object": bBoxes}])))
+
 
         try:
             data = {"file": open("../images/" + filename, 'rb'), 'data': info, 'modelId' :('', model_id)}

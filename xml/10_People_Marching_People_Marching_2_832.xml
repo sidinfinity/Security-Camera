@@ -1,1 +1,44 @@
-<annotation><filename>10_People_Marching_People_Marching_2_832.jpg</filename><size><width>1024</width><height>1540</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>634</xmin><ymin>186</ymin><xmax>832</xmax><ymax>297</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>156</xmin><ymin>255</ymin><xmax>303</xmax><ymax>351</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>961</xmin><ymin>378</ymin><xmax>1024</xmax><ymax>441</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>10_People_Marching_People_Marching_2_832.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1540</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>634</xmin>
+      <ymin>186</ymin>
+      <xmax>832</xmax>
+      <ymax>297</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>156</xmin>
+      <ymin>255</ymin>
+      <xmax>303</xmax>
+      <ymax>351</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>961</xmin>
+      <ymin>378</ymin>
+      <xmax>1024</xmax>
+      <ymax>441</ymax>
+    </bndbox>
+  </object>
+</annotation>

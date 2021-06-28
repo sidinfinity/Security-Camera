@@ -1,1 +1,20 @@
-<annotation><filename>12_Group_Large_Group_12_Group_Large_Group_12_745.jpg</filename><size><width>1024</width><height>831</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>517</xmin><ymin>355</ymin><xmax>551</xmax><ymax>380</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>12_Group_Large_Group_12_Group_Large_Group_12_745.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>831</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>517</xmin>
+      <ymin>355</ymin>
+      <xmax>551</xmax>
+      <ymax>380</ymax>
+    </bndbox>
+  </object>
+</annotation>

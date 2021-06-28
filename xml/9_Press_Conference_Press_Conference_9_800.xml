@@ -1,1 +1,20 @@
-<annotation><filename>9_Press_Conference_Press_Conference_9_800.jpg</filename><size><width>1024</width><height>1434</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>319</xmin><ymin>207</ymin><xmax>962</xmax><ymax>677</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>9_Press_Conference_Press_Conference_9_800.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1434</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>319</xmin>
+      <ymin>207</ymin>
+      <xmax>962</xmax>
+      <ymax>677</ymax>
+    </bndbox>
+  </object>
+</annotation>

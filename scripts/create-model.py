@@ -3,7 +3,7 @@
 import requests, os, json
 
 url = "https://app.nanonets.com/api/v2/ObjectDetection/Model/"
-api_key = "lAKaGYHp5e4BMxLJhB1UMfDSxklAfmp0"
+api_key = "WbeirrLIJJ696lyWin1TAw6z25NxS4Mq"
 
 payload = "{\"categories\" : [\"face\"]}"
 headers = {'Content-Type': "application/json",}

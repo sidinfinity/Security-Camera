@@ -1,1 +1,32 @@
-<annotation><filename>41_Swimming_Swimmer_41_281.jpg</filename><size><width>1024</width><height>731</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>144</xmin><ymin>240</ymin><xmax>312</xmax><ymax>412</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>678</xmin><ymin>254</ymin><xmax>826</xmax><ymax>396</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>41_Swimming_Swimmer_41_281.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>731</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>144</xmin>
+      <ymin>240</ymin>
+      <xmax>312</xmax>
+      <ymax>412</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>678</xmin>
+      <ymin>254</ymin>
+      <xmax>826</xmax>
+      <ymax>396</ymax>
+    </bndbox>
+  </object>
+</annotation>

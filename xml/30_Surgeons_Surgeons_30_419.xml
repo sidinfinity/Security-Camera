@@ -1,1 +1,20 @@
-<annotation><filename>30_Surgeons_Surgeons_30_419.jpg</filename><size><width>1024</width><height>1537</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>210</xmin><ymin>291</ymin><xmax>901</xmax><ymax>814</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>30_Surgeons_Surgeons_30_419.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1537</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>210</xmin>
+      <ymin>291</ymin>
+      <xmax>901</xmax>
+      <ymax>814</ymax>
+    </bndbox>
+  </object>
+</annotation>

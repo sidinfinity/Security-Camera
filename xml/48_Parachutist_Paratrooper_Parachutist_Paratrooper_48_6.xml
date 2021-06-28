@@ -1,1 +1,20 @@
-<annotation><filename>48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_6.jpg</filename><size><width>1024</width><height>1563</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>519</xmin><ymin>1327</ymin><xmax>540</xmax><ymax>1344</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_6.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1563</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>519</xmin>
+      <ymin>1327</ymin>
+      <xmax>540</xmax>
+      <ymax>1344</ymax>
+    </bndbox>
+  </object>
+</annotation>

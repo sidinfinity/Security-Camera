@@ -1,1 +1,20 @@
-<annotation><filename>16_Award_Ceremony_Awards_Ceremony_16_89.jpg</filename><size><width>1024</width><height>1532</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>515</xmin><ymin>165</ymin><xmax>653</xmax><ymax>273</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>16_Award_Ceremony_Awards_Ceremony_16_89.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1532</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>515</xmin>
+      <ymin>165</ymin>
+      <xmax>653</xmax>
+      <ymax>273</ymax>
+    </bndbox>
+  </object>
+</annotation>

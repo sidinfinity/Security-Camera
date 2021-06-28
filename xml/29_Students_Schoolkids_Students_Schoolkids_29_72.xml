@@ -1,1 +1,32 @@
-<annotation><filename>29_Students_Schoolkids_Students_Schoolkids_29_72.jpg</filename><size><width>1024</width><height>767</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>708</xmin><ymin>116</ymin><xmax>912</xmax><ymax>294</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>150</xmin><ymin>190</ymin><xmax>212</xmax><ymax>328</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>29_Students_Schoolkids_Students_Schoolkids_29_72.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>767</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>708</xmin>
+      <ymin>116</ymin>
+      <xmax>912</xmax>
+      <ymax>294</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>150</xmin>
+      <ymin>190</ymin>
+      <xmax>212</xmax>
+      <ymax>328</ymax>
+    </bndbox>
+  </object>
+</annotation>

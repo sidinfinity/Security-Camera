@@ -1,1 +1,20 @@
-<annotation><filename>32_Worker_Laborer_Worker_Laborer_32_827.jpg</filename><size><width>1024</width><height>648</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>896</xmin><ymin>336</ymin><xmax>931</xmax><ymax>362</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>32_Worker_Laborer_Worker_Laborer_32_827.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>648</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>896</xmin>
+      <ymin>336</ymin>
+      <xmax>931</xmax>
+      <ymax>362</ymax>
+    </bndbox>
+  </object>
+</annotation>

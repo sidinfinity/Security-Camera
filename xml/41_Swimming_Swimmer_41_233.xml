@@ -1,1 +1,44 @@
-<annotation><filename>41_Swimming_Swimmer_41_233.jpg</filename><size><width>1024</width><height>1540</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>376</xmin><ymin>458</ymin><xmax>596</xmax><ymax>633</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>322</xmin><ymin>24</ymin><xmax>458</xmax><ymax>144</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>741</xmin><ymin>0</ymin><xmax>849</xmax><ymax>120</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>41_Swimming_Swimmer_41_233.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1540</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>376</xmin>
+      <ymin>458</ymin>
+      <xmax>596</xmax>
+      <ymax>633</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>322</xmin>
+      <ymin>24</ymin>
+      <xmax>458</xmax>
+      <ymax>144</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>741</xmin>
+      <ymin>0</ymin>
+      <xmax>849</xmax>
+      <ymax>120</ymax>
+    </bndbox>
+  </object>
+</annotation>

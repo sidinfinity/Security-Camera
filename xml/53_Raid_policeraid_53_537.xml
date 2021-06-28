@@ -1,1 +1,44 @@
-<annotation><filename>53_Raid_policeraid_53_537.jpg</filename><size><width>1024</width><height>1500</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>620</xmin><ymin>404</ymin><xmax>717</xmax><ymax>471</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>796</xmin><ymin>339</ymin><xmax>916</xmax><ymax>418</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>263</xmin><ymin>383</ymin><xmax>362</xmax><ymax>465</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>53_Raid_policeraid_53_537.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1500</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>620</xmin>
+      <ymin>404</ymin>
+      <xmax>717</xmax>
+      <ymax>471</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>796</xmin>
+      <ymin>339</ymin>
+      <xmax>916</xmax>
+      <ymax>418</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>263</xmin>
+      <ymin>383</ymin>
+      <xmax>362</xmax>
+      <ymax>465</ymax>
+    </bndbox>
+  </object>
+</annotation>

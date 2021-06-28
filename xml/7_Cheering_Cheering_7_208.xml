@@ -1,1 +1,44 @@
-<annotation><filename>7_Cheering_Cheering_7_208.jpg</filename><size><width>1024</width><height>754</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>207</xmin><ymin>119</ymin><xmax>265</xmax><ymax>162</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>474</xmin><ymin>230</ymin><xmax>512</xmax><ymax>277</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>743</xmin><ymin>157</ymin><xmax>806</xmax><ymax>201</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>7_Cheering_Cheering_7_208.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>754</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>207</xmin>
+      <ymin>119</ymin>
+      <xmax>265</xmax>
+      <ymax>162</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>474</xmin>
+      <ymin>230</ymin>
+      <xmax>512</xmax>
+      <ymax>277</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>743</xmin>
+      <ymin>157</ymin>
+      <xmax>806</xmax>
+      <ymax>201</ymax>
+    </bndbox>
+  </object>
+</annotation>

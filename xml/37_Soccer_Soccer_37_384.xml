@@ -1,1 +1,32 @@
-<annotation><filename>37_Soccer_Soccer_37_384.jpg</filename><size><width>1024</width><height>576</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>638</xmin><ymin>112</ymin><xmax>746</xmax><ymax>178</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>302</xmin><ymin>58</ymin><xmax>398</xmax><ymax>120</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>37_Soccer_Soccer_37_384.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>576</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>638</xmin>
+      <ymin>112</ymin>
+      <xmax>746</xmax>
+      <ymax>178</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>302</xmin>
+      <ymin>58</ymin>
+      <xmax>398</xmax>
+      <ymax>120</ymax>
+    </bndbox>
+  </object>
+</annotation>

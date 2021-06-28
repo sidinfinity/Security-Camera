@@ -1,1 +1,32 @@
-<annotation><filename>61_Street_Battle_streetfight_61_257.jpg</filename><size><width>1024</width><height>1434</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>786</xmin><ymin>448</ymin><xmax>934</xmax><ymax>602</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>660</xmin><ymin>182</ymin><xmax>831</xmax><ymax>269</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>61_Street_Battle_streetfight_61_257.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1434</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>786</xmin>
+      <ymin>448</ymin>
+      <xmax>934</xmax>
+      <ymax>602</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>660</xmin>
+      <ymin>182</ymin>
+      <xmax>831</xmax>
+      <ymax>269</ymax>
+    </bndbox>
+  </object>
+</annotation>

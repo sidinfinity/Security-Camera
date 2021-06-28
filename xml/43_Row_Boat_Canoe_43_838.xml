@@ -1,1 +1,32 @@
-<annotation><filename>43_Row_Boat_Canoe_43_838.jpg</filename><size><width>1024</width><height>663</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>436</xmin><ymin>186</ymin><xmax>544</xmax><ymax>266</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>746</xmin><ymin>24</ymin><xmax>834</xmax><ymax>86</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>43_Row_Boat_Canoe_43_838.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>663</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>436</xmin>
+      <ymin>186</ymin>
+      <xmax>544</xmax>
+      <ymax>266</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>746</xmin>
+      <ymin>24</ymin>
+      <xmax>834</xmax>
+      <ymax>86</ymax>
+    </bndbox>
+  </object>
+</annotation>

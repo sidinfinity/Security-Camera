@@ -1,1 +1,44 @@
-<annotation><filename>13_Interview_Interview_On_Location_13_860.jpg</filename><size><width>1024</width><height>548</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>328</xmin><ymin>155</ymin><xmax>359</xmax><ymax>178</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>430</xmin><ymin>161</ymin><xmax>438</xmax><ymax>174</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>909</xmin><ymin>177</ymin><xmax>948</xmax><ymax>212</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>13_Interview_Interview_On_Location_13_860.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>548</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>328</xmin>
+      <ymin>155</ymin>
+      <xmax>359</xmax>
+      <ymax>178</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>430</xmin>
+      <ymin>161</ymin>
+      <xmax>438</xmax>
+      <ymax>174</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>909</xmin>
+      <ymin>177</ymin>
+      <xmax>948</xmax>
+      <ymax>212</ymax>
+    </bndbox>
+  </object>
+</annotation>

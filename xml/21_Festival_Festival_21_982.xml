@@ -1,1 +1,32 @@
-<annotation><filename>21_Festival_Festival_21_982.jpg</filename><size><width>1024</width><height>683</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>937</xmin><ymin>583</ymin><xmax>959</xmax><ymax>606</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>203</xmin><ymin>600</ymin><xmax>219</xmax><ymax>610</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>21_Festival_Festival_21_982.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>937</xmin>
+      <ymin>583</ymin>
+      <xmax>959</xmax>
+      <ymax>606</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>203</xmin>
+      <ymin>600</ymin>
+      <xmax>219</xmax>
+      <ymax>610</ymax>
+    </bndbox>
+  </object>
+</annotation>

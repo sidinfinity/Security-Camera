@@ -1,1 +1,44 @@
-<annotation><filename>58_Hockey_icehockey_puck_58_8.jpg</filename><size><width>1024</width><height>712</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>284</xmin><ymin>106</ymin><xmax>374</xmax><ymax>182</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>542</xmin><ymin>146</ymin><xmax>638</xmax><ymax>222</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>480</xmin><ymin>8</ymin><xmax>530</xmax><ymax>62</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>58_Hockey_icehockey_puck_58_8.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>712</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>284</xmin>
+      <ymin>106</ymin>
+      <xmax>374</xmax>
+      <ymax>182</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>542</xmin>
+      <ymin>146</ymin>
+      <xmax>638</xmax>
+      <ymax>222</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>480</xmin>
+      <ymin>8</ymin>
+      <xmax>530</xmax>
+      <ymax>62</ymax>
+    </bndbox>
+  </object>
+</annotation>

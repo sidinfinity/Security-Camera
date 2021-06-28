@@ -1,1 +1,20 @@
-<annotation><filename>17_Ceremony_Ceremony_17_540.jpg</filename><size><width>1024</width><height>1530</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>475</xmin><ymin>152</ymin><xmax>621</xmax><ymax>262</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>17_Ceremony_Ceremony_17_540.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1530</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>475</xmin>
+      <ymin>152</ymin>
+      <xmax>621</xmax>
+      <ymax>262</ymax>
+    </bndbox>
+  </object>
+</annotation>

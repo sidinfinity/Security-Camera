@@ -1,1 +1,32 @@
-<annotation><filename>6_Funeral_Funeral_6_525.jpg</filename><size><width>1024</width><height>1536</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>192</xmin><ymin>162</ymin><xmax>333</xmax><ymax>258</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>712</xmin><ymin>87</ymin><xmax>874</xmax><ymax>186</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>6_Funeral_Funeral_6_525.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>192</xmin>
+      <ymin>162</ymin>
+      <xmax>333</xmax>
+      <ymax>258</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>712</xmin>
+      <ymin>87</ymin>
+      <xmax>874</xmax>
+      <ymax>186</ymax>
+    </bndbox>
+  </object>
+</annotation>

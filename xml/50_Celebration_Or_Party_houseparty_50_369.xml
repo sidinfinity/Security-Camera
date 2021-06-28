@@ -1,1 +1,44 @@
-<annotation><filename>50_Celebration_Or_Party_houseparty_50_369.jpg</filename><size><width>1024</width><height>732</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>294</xmin><ymin>106</ymin><xmax>438</xmax><ymax>206</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>728</xmin><ymin>48</ymin><xmax>858</xmax><ymax>172</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>188</xmin><ymin>242</ymin><xmax>322</xmax><ymax>366</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>50_Celebration_Or_Party_houseparty_50_369.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>732</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>294</xmin>
+      <ymin>106</ymin>
+      <xmax>438</xmax>
+      <ymax>206</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>728</xmin>
+      <ymin>48</ymin>
+      <xmax>858</xmax>
+      <ymax>172</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>188</xmin>
+      <ymin>242</ymin>
+      <xmax>322</xmax>
+      <ymax>366</ymax>
+    </bndbox>
+  </object>
+</annotation>

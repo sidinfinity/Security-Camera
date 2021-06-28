@@ -1,1 +1,32 @@
-<annotation><filename>13_Interview_Interview_Sequences_13_360.jpg</filename><size><width>1024</width><height>428</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>330</xmin><ymin>120</ymin><xmax>498</xmax><ymax>232</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>532</xmin><ymin>114</ymin><xmax>734</xmax><ymax>252</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>13_Interview_Interview_Sequences_13_360.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>428</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>330</xmin>
+      <ymin>120</ymin>
+      <xmax>498</xmax>
+      <ymax>232</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>532</xmin>
+      <ymin>114</ymin>
+      <xmax>734</xmax>
+      <ymax>252</ymax>
+    </bndbox>
+  </object>
+</annotation>

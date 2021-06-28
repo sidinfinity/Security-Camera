@@ -1,1 +1,32 @@
-<annotation><filename>54_Rescue_firemanrescue_54_632.jpg</filename><size><width>1024</width><height>768</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>330</xmin><ymin>289</ymin><xmax>386</xmax><ymax>332</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>617</xmin><ymin>242</ymin><xmax>684</xmax><ymax>294</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>54_Rescue_firemanrescue_54_632.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>330</xmin>
+      <ymin>289</ymin>
+      <xmax>386</xmax>
+      <ymax>332</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>617</xmin>
+      <ymin>242</ymin>
+      <xmax>684</xmax>
+      <ymax>294</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,1 +1,20 @@
-<annotation><filename>33_Running_Running_33_97.jpg</filename><size><width>1024</width><height>783</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>696</xmin><ymin>161</ymin><xmax>761</xmax><ymax>213</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>33_Running_Running_33_97.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>783</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>696</xmin>
+      <ymin>161</ymin>
+      <xmax>761</xmax>
+      <ymax>213</ymax>
+    </bndbox>
+  </object>
+</annotation>

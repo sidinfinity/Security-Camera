@@ -1,1 +1,44 @@
-<annotation><filename>54_Rescue_rescuepeople_54_936.jpg</filename><size><width>1024</width><height>1366</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>55</xmin><ymin>251</ymin><xmax>105</xmax><ymax>292</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>178</xmin><ymin>104</ymin><xmax>333</xmax><ymax>222</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>714</xmin><ymin>95</ymin><xmax>842</xmax><ymax>192</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>54_Rescue_rescuepeople_54_936.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1366</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>55</xmin>
+      <ymin>251</ymin>
+      <xmax>105</xmax>
+      <ymax>292</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>178</xmin>
+      <ymin>104</ymin>
+      <xmax>333</xmax>
+      <ymax>222</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>714</xmin>
+      <ymin>95</ymin>
+      <xmax>842</xmax>
+      <ymax>192</ymax>
+    </bndbox>
+  </object>
+</annotation>

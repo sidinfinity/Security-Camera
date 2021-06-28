@@ -1,1 +1,20 @@
-<annotation><filename>26_Soldier_Drilling_Soldiers_Drilling_26_635.jpg</filename><size><width>1024</width><height>1615</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>595</xmin><ymin>595</ymin><xmax>825</xmax><ymax>730</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>26_Soldier_Drilling_Soldiers_Drilling_26_635.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1615</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>595</xmin>
+      <ymin>595</ymin>
+      <xmax>825</xmax>
+      <ymax>730</ymax>
+    </bndbox>
+  </object>
+</annotation>

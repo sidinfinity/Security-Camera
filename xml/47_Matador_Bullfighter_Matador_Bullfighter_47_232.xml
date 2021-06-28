@@ -1,1 +1,20 @@
-<annotation><filename>47_Matador_Bullfighter_Matador_Bullfighter_47_232.jpg</filename><size><width>1024</width><height>683</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>710</xmin><ymin>352</ymin><xmax>824</xmax><ymax>446</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>47_Matador_Bullfighter_Matador_Bullfighter_47_232.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>683</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>710</xmin>
+      <ymin>352</ymin>
+      <xmax>824</xmax>
+      <ymax>446</ymax>
+    </bndbox>
+  </object>
+</annotation>

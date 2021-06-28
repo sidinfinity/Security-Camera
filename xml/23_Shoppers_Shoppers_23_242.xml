@@ -1,1 +1,44 @@
-<annotation><filename>23_Shoppers_Shoppers_23_242.jpg</filename><size><width>1024</width><height>681</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>492</xmin><ymin>84</ymin><xmax>552</xmax><ymax>137</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>870</xmin><ymin>97</ymin><xmax>925</xmax><ymax>136</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>161</xmin><ymin>210</ymin><xmax>195</xmax><ymax>240</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>23_Shoppers_Shoppers_23_242.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>681</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>492</xmin>
+      <ymin>84</ymin>
+      <xmax>552</xmax>
+      <ymax>137</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>870</xmin>
+      <ymin>97</ymin>
+      <xmax>925</xmax>
+      <ymax>136</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>161</xmin>
+      <ymin>210</ymin>
+      <xmax>195</xmax>
+      <ymax>240</ymax>
+    </bndbox>
+  </object>
+</annotation>

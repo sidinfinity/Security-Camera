@@ -1,1 +1,32 @@
-<annotation><filename>38_Tennis_Tennis_38_475.jpg</filename><size><width>1024</width><height>1382</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>395</xmin><ymin>60</ymin><xmax>465</xmax><ymax>105</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>672</xmin><ymin>180</ymin><xmax>742</xmax><ymax>231</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>38_Tennis_Tennis_38_475.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1382</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>395</xmin>
+      <ymin>60</ymin>
+      <xmax>465</xmax>
+      <ymax>105</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>672</xmin>
+      <ymin>180</ymin>
+      <xmax>742</xmax>
+      <ymax>231</ymax>
+    </bndbox>
+  </object>
+</annotation>

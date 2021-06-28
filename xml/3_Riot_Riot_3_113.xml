@@ -1,1 +1,20 @@
-<annotation><filename>3_Riot_Riot_3_113.jpg</filename><size><width>1024</width><height>1344</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>218</xmin><ymin>68</ymin><xmax>368</xmax><ymax>181</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>3_Riot_Riot_3_113.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>1344</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>218</xmin>
+      <ymin>68</ymin>
+      <xmax>368</xmax>
+      <ymax>181</ymax>
+    </bndbox>
+  </object>
+</annotation>

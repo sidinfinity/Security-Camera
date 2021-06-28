@@ -1,1 +1,32 @@
-<annotation><filename>45_Balloonist_Balloonist_45_312.jpg</filename><size><width>1024</width><height>634</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>504</xmin><ymin>194</ymin><xmax>560</xmax><ymax>236</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>255</xmin><ymin>197</ymin><xmax>260</xmax><ymax>200</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>45_Balloonist_Balloonist_45_312.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>634</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>504</xmin>
+      <ymin>194</ymin>
+      <xmax>560</xmax>
+      <ymax>236</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>255</xmin>
+      <ymin>197</ymin>
+      <xmax>260</xmax>
+      <ymax>200</ymax>
+    </bndbox>
+  </object>
+</annotation>

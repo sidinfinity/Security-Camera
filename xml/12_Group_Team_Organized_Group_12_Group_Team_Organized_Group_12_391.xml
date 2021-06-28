@@ -1,1 +1,44 @@
-<annotation><filename>12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_391.jpg</filename><size><width>1024</width><height>681</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>16</xmin><ymin>242</ymin><xmax>238</xmax><ymax>368</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>190</xmin><ymin>362</ymin><xmax>372</xmax><ymax>522</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>440</xmin><ymin>146</ymin><xmax>680</xmax><ymax>324</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_391.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>681</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>16</xmin>
+      <ymin>242</ymin>
+      <xmax>238</xmax>
+      <ymax>368</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>190</xmin>
+      <ymin>362</ymin>
+      <xmax>372</xmax>
+      <ymax>522</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>440</xmin>
+      <ymin>146</ymin>
+      <xmax>680</xmax>
+      <ymax>324</ymax>
+    </bndbox>
+  </object>
+</annotation>

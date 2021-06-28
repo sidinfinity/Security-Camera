@@ -1,1 +1,44 @@
-<annotation><filename>11_Meeting_Meeting_11_Meeting_Meeting_11_893.jpg</filename><size><width>1024</width><height>767</height><depth>3</depth></size><segmeneted>0</segmeneted><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>310</xmin><ymin>274</ymin><xmax>432</xmax><ymax>372</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>472</xmin><ymin>246</ymin><xmax>570</xmax><ymax>328</ymax></bndbox></object><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>606</xmin><ymin>266</ymin><xmax>714</xmax><ymax>356</ymax></bndbox></object></annotation>
+<annotation>
+  <filename>11_Meeting_Meeting_11_Meeting_Meeting_11_893.jpg</filename>
+  <size>
+    <width>1024</width>
+    <height>767</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>310</xmin>
+      <ymin>274</ymin>
+      <xmax>432</xmax>
+      <ymax>372</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>472</xmin>
+      <ymin>246</ymin>
+      <xmax>570</xmax>
+      <ymax>328</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>606</xmin>
+      <ymin>266</ymin>
+      <xmax>714</xmax>
+      <ymax>356</ymax>
+    </bndbox>
+  </object>
+</annotation>
