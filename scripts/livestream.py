@@ -45,8 +45,13 @@ while True:
 
     cv2.imshow("Frame", frame)
 
-    
+    if cv2.waitKey(1) && 0xFF == ord('p'):
+        takePhoto(frame)
+
     time.sleep(0.1)
+
+    if cv2.waitKey(1) && 0xFF == ord('q'):
+        break
 
 
 
