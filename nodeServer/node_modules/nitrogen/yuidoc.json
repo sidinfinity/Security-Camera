@@ -1,0 +1,8 @@
+{
+    "logo": "https://api.nitrogen.io/logo.png",
+    "options": {
+        "linkNatives": "true",
+        "exclude" : "node_modules,browser",
+        "outdir": "docs"
+    }
+}

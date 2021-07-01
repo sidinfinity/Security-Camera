@@ -1,9 +1,89 @@
-<<!DOCTYPE html>
+
 <html>
-  <head>
-    <title>Security Camera</title>
-  </head>
-  <body>
-    <h1>Security Camera</h1>
-  </body>
+<head>
+<meta charset="utf-8">
+
+<h1 style= "text-align: center;">Security Camera</h1>
+
+<style>
+#container {
+    margin: 0px auto;
+    width: 500px;
+    height: 375px;
+    border: solid 2px black;
+  margin-top: 20px;
+}
+#videoElement {
+    width: 500px;
+    height: 375px;
+  transform: rotateY(180deg);
+}
+#buttonDiv{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* order: solid 2px black; */
+}
+#canvas{
+  transform: rotateY(180deg);
+}
+</style>
+</head>
+ 
+<body>
+<!-- the video canvas -->
+<div id="container">
+    <video playsinline autoplay="true" audio = "false" id="videoElement">Video should start...</video>
+</div>
+<!-- the button to snap a picture -->
+<div id="buttonDiv">
+    <button id="trigger" onclick="snap(this);">Snap</button>
+</div>
+<!-- the resulting photo -->
+<div id = "container">
+  <canvas  id="canvas" width="500" height="375"></canvas> 
+</div>
+<!-- the JS script -->
+<script>
+var video = document.querySelector("#videoElement");
+var canvas = document.getElementById("canvas")
+var ctx = canvas.getContext('2d');
+
+if (navigator.mediaDevices.getUserMedia) {
+  navigator.mediaDevices.getUserMedia({ video: true })
+    .then(function (stream) {
+      video.srcObject = stream;
+    })
+    .catch(function (err0r) {
+      console.log("Unable to start stream");
+    });
+}
+
+function snap() {
+      ctx.drawImage(video, 0,0, canvas.width, canvas.height);
+      var link;
+      if (window.navigator.userAgent.indexOf("Chrome") > 0) {
+          link = canvas.toDataURL();
+          data = 'urls=' + link;
+          
+          var xhr = new XMLHttpRequest();
+          
+          xhr.addEventListener("readystatechange", function () {
+              if (this.readyState == this.DONE) {
+                  console.log(this.responseText);
+              }
+          });
+          
+          xhr.open("POST", "https://app.nanonets.com/api/v2/ObjectDetection/Model/49fb94bf-128b-4a8b-8242-dbf2d7f06f65/LabelUrls/");
+          xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+          xhr.setRequestHeader("authorization", "Basic " + btoa("WbeirrLIJJ696lyWin1TAw6z25NxS4Mq"));
+          
+          xhr.send(data);
+      } else {
+          console.log("please use chrome");
+      }
+}
+</script>
+</body>
 </html>

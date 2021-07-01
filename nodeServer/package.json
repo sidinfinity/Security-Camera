@@ -18,6 +18,15 @@
   "homepage": "https://github.com/sidinfinity/Security-Camera#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "http": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "fswebcam": "^0.2.0",
+    "getusermedia": "^2.0.1",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "node-webcam": "^0.8.0",
+    "querystring": "^0.2.1",
+    "raspberrypi-node-camera-web-streamer": "^1.1.2",
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
   }
 }

@@ -1,0 +1,1 @@
+cmd_Release/obj.target/raspberry-pi-camera.node := g++ -shared -pthread -rdynamic  -Wl,-soname=raspberry-pi-camera.node -o Release/obj.target/raspberry-pi-camera.node -Wl,--start-group Release/obj.target/raspberry-pi-camera/src/RaspberryPiCamera.o Release/obj.target/../node-addon-api/src/nothing.a -Wl,--end-group -L/opt/vc/lib -lbcm_host -lmmal -lmmal_core
