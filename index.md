@@ -2,7 +2,7 @@
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |  
-|:Siddharth Maddikayala:|:American High School:|:Idk:|:Incoming Freshman:|
+|:Siddharth Maddikayala:|:American High School:|:CS/AI:|:Incoming Freshman:|
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
