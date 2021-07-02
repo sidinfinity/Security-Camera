@@ -10,9 +10,10 @@ My second milestone was finishing the AI model to detect faces and getting a liv
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RP1mWxEz4Vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 # First Milestone
-My first milestone was pre-processing my dataset and getting it ready for training. The dataset I used came with a text file that showed where to place the bounding boxes. I wrote a small script that loops through the annotations text file and generates a xml file in the xml directory. I also wrote a few tests to make sure my code works after I make changes. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/waQt1IAPrvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Generate Annotations Code![Generate Annotation Code](https://user-images.githubusercontent.com/56204136/124319999-f2e56d80-db2f-11eb-8475-f6b14c9c4036.png)
 
+My first milestone was pre-processing my dataset and getting it ready for training. The dataset I used came with a text file that showed where to place the bounding boxes. I wrote a small script that loops through the annotations text file and generates a xml file in the xml directory. This was fairly simple by using the `xml.etree.cElementTree` library in python. I just used the `addElement` fucntion to add elements to my xml variable and then I would just save the varaible contents to a file. I also wrote a few tests to make sure my code works after I make changes. I used the module `py.test`, and a wrote a test for getting the filename and a test for generating an xml file. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/waQt1IAPrvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
