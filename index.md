@@ -4,6 +4,10 @@ My project was about using machine learning to do object detection on the raspbe
 | **Engineer** | **School** | **Area of Interest** | **Grade** |  
 |Siddharth Maddikayala|American High School|CS/AI|Incoming Freshman|
 
+# Final Milestone
+
+My final milestone was a similar to my second milestone, except I wanted to run a `node.js` server to display my livestream and take pictures. I used `WebRTC` to livestream video on html's `canvas` object which displays an image. I also added a button, `snap`, that takes a picture and display's it on the canvas below. Unfortunately, I couldn't finish the webpage because I couldn't get Nanonet's API call to work. The `canvas` element allows you to generate a `DataUrl` for the image, but Nanonet's API call uses `XMLHttpRequest`, which doesn't support data urls. 
+
 <hr>
 
 # Second Milestone
