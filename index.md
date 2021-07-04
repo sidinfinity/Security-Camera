@@ -16,8 +16,8 @@ I used Nanonet's API to create, train, and test a model. My first script `create
 
 After finishing the model and making sure that it works, I started working on a program that uses `opencv` to display a livestream of the raspberrypi camera. I used `videoCapture()` to start taking a video with the camera, and each frame of the video I would display the image. To take a picture I added a keybind `p` that takes a picture and sends the image to Nanonets for processing. After I got back the result, I drew the bounding boxes given and saved the image with bounding boxes in `Desktop`.  
 
-Screen Shot 2021-07-03 at 6.54.59 PM<img width="812" alt="Screen Shot 2021-07-03 at 6 54 59 PM" src="https://user-images.githubusercontent.com/56204136/124370842-62db1d00-dc30-11eb-928b-878b7be76a94.png">
-
+![Livestream Code](https://user-images.githubusercontent.com/56204136/124390920-b5552180-dca2-11eb-9258-0c4ba0e1442a.png)
+Livestream Code
 
 
 
@@ -32,6 +32,7 @@ My first milestone was pre-processing my dataset and getting it ready for traini
 
 
 
-![image](https://user-images.githubusercontent.com/56204136/124322639-a8b2bb00-db34-11eb-81d9-cdc7e5f66256.png)
+![generateXml Code](https://user-images.githubusercontent.com/56204136/124322639-a8b2bb00-db34-11eb-81d9-cdc7e5f66256.png)
+Generate XML Code
 
 
