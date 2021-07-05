@@ -6,7 +6,10 @@ My project was about using machine learning to do object detection on the raspbe
 
 # Final Milestone
 
-My final milestone was a similar to my second milestone, except I wanted to run a `node.js` server to display my livestream and take pictures. I used `WebRTC` to livestream video on html's `canvas` object which displays an image. I also added a button, `snap`, that takes a picture and display's it on the canvas below. Unfortunately, I couldn't finish the webpage because I couldn't get Nanonet's API call to work. The `canvas` element allows you to generate a `DataUrl` for the image, but Nanonet's API call uses `XMLHttpRequest`, which doesn't support data urls. 
+My final milestone was a similar to my second milestone, except I wanted to run a `node.js` server to display my livestream and take pictures. I used `WebRTC` to livestream video on html's `canvas` object which displays an image. I also added a button, `snap`, that takes a picture and display's it on the canvas below. Unfortunately, I couldn't finish the webpage because I couldn't get Nanonet's API call to work. The `canvas` element allows you to generate a `DataUrl` for the image, but Nanonet's API call uses `XMLHttpRequest`, which doesn't support data urls. In the future, I would like to draw bouding boxes in a livestream per frame. For each frame, I would call the API to get the response, and then draw boxes. I tried doing this with Nanonets but their API is too slow so I would like to do this with tensorflow. 
+
+![image](https://user-images.githubusercontent.com/56204136/124403915-75fff280-dced-11eb-8ff2-c3e9482e5e01.png)
+
 
 <hr>
 
